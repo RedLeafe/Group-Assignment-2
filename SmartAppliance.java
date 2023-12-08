@@ -1,6 +1,6 @@
 public class SmartAppliance extends Appliance {
     private double lowPercent;
-    protected boolean isLow;
+    private boolean isLow;
 
 
     public SmartAppliance(int locationID, String description, double powerOn, double probOn, double lowPercent) {
@@ -45,5 +45,8 @@ public class SmartAppliance extends Appliance {
 
     public String toString(){
         return (super.getLocationID() + "," + super.getDescription() + "," + super.getPowerOn() + "," + super.getProbOn() + "," + "true," + lowPercent );
+    }
+    public boolean isLow(){
+        return isLow;
     }
 }

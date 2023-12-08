@@ -41,6 +41,7 @@ public class GeneralClient {
             System.out.println( "Time step " + (t+1) + ":");
             int numSmartAppliancesLow = 0;
             int numLocationsBrowedOut = 0;
+            int totalNumAffected = 0;
 
             randomizeOn(regAppList, smartAppList);
 
@@ -100,9 +101,10 @@ public class GeneralClient {
                 count = 0;
                 while (totalPower > allowedWattage && count < rooms.size())
                 {
-                    
-                    rooms.get(count).brownOut();
+                    totalPower -= rooms.get(count).totalWattage();
                     numLocationsBrowedOut++;
+                    totalNumAffected += rooms.get(count).isAffected();
+                    rooms.get(count).brownOut();
                     roomNum = rooms.get(count).getRoomNum();
                     count++;
                     
@@ -122,7 +124,7 @@ public class GeneralClient {
             turnAllOff(regAppList, smartAppList);
             System.out.println("Number of appliances turned to low: " + numSmartAppliancesLow);
             System.out.println("Number of locations browned out: " + numLocationsBrowedOut);
-            System.out.println("Number of locations affected: " + locationsAffected.size());
+            System.out.println("Number of locations affected: " + (totalNumAffected));
             System.out.println();
             t++;
             
@@ -138,7 +140,7 @@ public class GeneralClient {
         }
         for( int i = 0; i < smartApp.size(); i++){
             if( smartApp.get(i).isOn())
-                total += regApp.get(i).getOutput();
+                total += smartApp.get(i).getOutput();
         }
         return total;
     }
