@@ -70,6 +70,10 @@ public class Appliance {
         return (locationID + "," + description + "," + powerOn + "," + probOn + "," + "false,0.0" );
     }
 
+    public void setStatus( boolean s ){
+        isOn = t;
+    }
+
 
     
 
