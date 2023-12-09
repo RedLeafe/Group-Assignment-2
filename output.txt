@@ -1,0 +1,2800 @@
+Time Step 1, Appliances Affected: 
+
+Room: 10000040 Appliance: Clothes Dryer - Electric
+Room: 10000012 Appliance: Clothes Dryer - Electric
+Room: 10000098 Appliance: Dishwasher (With Dry Cycle)
+Room: 10000097 Appliance: Air Conditioner - 10000 BTU
+Room: 10000085 Appliance: Air Conditioner - 10000 BTU
+Room: 10000082 Appliance: Air Conditioner - 10000 BTU
+Room: 10000057 Appliance: Air Conditioner - 10000 BTU
+Room: 10000051 Appliance: Air Conditioner - 10000 BTU
+Room: 10000002 Appliance: Air Conditioner - 10000 BTU
+Room: 10000002 Appliance: Air Conditioner - 10000 BTU
+Room: 10000098 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000092 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000083 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000079 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000065 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000055 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000053 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000053 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000051 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000033 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000030 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000029 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000028 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000015 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000015 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000012 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000008 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000005 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000004 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000001 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000100 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000099 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000099 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000096 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000090 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000085 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000084 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000079 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000074 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000070 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000070 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000064 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000064 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000063 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000053 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000051 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000050 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000048 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000047 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000046 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000044 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000038 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000037 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000035 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000030 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000026 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000025 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000014 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000013 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000011 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000009 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000004 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000093 Appliance: Air Conditioner - 7000 BTU
+Room: 10000083 Appliance: Air Conditioner - 7000 BTU
+Room: 10000079 Appliance: Air Conditioner - 7000 BTU
+Room: 10000057 Appliance: Air Conditioner - 7000 BTU
+Room: 10000028 Appliance: Air Conditioner - 7000 BTU
+Room: 10000024 Appliance: Air Conditioner - 7000 BTU
+Room: 10000022 Appliance: Air Conditioner - 7000 BTU
+Room: 10000099 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000080 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000073 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000063 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000055 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000052 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000051 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000050 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000042 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000040 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000036 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000029 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000029 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000023 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000020 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000019 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000015 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000012 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000010 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000003 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000098 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000095 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000091 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000087 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000086 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000086 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000083 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000082 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000082 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000080 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000077 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000074 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000073 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000067 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000065 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000062 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000060 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000059 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000057 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000057 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000056 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000055 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000053 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000046 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000045 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000044 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000044 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000043 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000043 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000042 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000042 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000041 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000034 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000033 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000032 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000028 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000027 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000024 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000024 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000023 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000014 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000012 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000011 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000006 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000003 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000098 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000094 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000092 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000092 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000090 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000089 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000089 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000087 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000086 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000082 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000078 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000073 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000064 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000063 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000050 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000045 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000029 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000022 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000021 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000016 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000014 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000010 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000009 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000096 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000095 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000090 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000088 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000083 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000072 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000067 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000059 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000059 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000055 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000053 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000051 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000045 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000042 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000042 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000038 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000031 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000017 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000015 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000013 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000006 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000005 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000092 Appliance: Air Conditioner - 5000 BTU
+Room: 10000075 Appliance: Air Conditioner - 5000 BTU
+Room: 10000045 Appliance: Air Conditioner - 5000 BTU
+Room: 10000006 Appliance: Fan (Attic)
+Room: 10000099 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000085 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000080 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000077 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000071 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000069 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000065 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000064 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000057 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000053 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000047 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000043 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000035 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000031 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000028 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000019 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000016 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000013 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000012 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000004 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000001 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000096 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000096 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000093 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000093 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000080 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000064 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000060 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000055 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000055 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000037 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000036 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000035 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000035 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000029 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000016 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000013 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000010 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000006 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000003 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000002 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000097 Appliance: Computer with Monitor
+Room: 10000095 Appliance: Computer with Monitor
+Room: 10000089 Appliance: Computer with Monitor
+Room: 10000057 Appliance: Computer with Monitor
+Room: 10000057 Appliance: Computer with Monitor
+Room: 10000043 Appliance: Computer with Monitor
+Room: 10000039 Appliance: Computer with Monitor
+Room: 10000027 Appliance: Computer with Monitor
+Room: 10000017 Appliance: Computer with Monitor
+Room: 10000004 Appliance: Computer with Monitor
+Room: 10000099 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000094 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000089 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000087 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000083 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000081 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000075 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000075 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000068 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000064 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000061 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000054 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000050 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000028 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000027 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000025 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000022 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000019 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000016 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000011 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000010 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000071 Appliance: Dishwasher (Without Dry Cycle)
+Room: 10000096 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000092 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000090 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000083 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000083 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000083 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000073 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000062 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000059 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000054 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000051 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000046 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000043 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000043 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000041 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000037 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000036 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000010 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000008 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000001 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000098 Appliance: Air Purifier
+Room: 10000093 Appliance: Air Purifier
+Room: 10000091 Appliance: Air Purifier
+Room: 10000089 Appliance: Air Purifier
+Room: 10000088 Appliance: Air Purifier
+Room: 10000086 Appliance: Air Purifier
+Room: 10000081 Appliance: Air Purifier
+Room: 10000079 Appliance: Air Purifier
+Room: 10000075 Appliance: Air Purifier
+Room: 10000072 Appliance: Air Purifier
+Room: 10000066 Appliance: Air Purifier
+Room: 10000060 Appliance: Air Purifier
+Room: 10000058 Appliance: Air Purifier
+Room: 10000054 Appliance: Air Purifier
+Room: 10000048 Appliance: Air Purifier
+Room: 10000040 Appliance: Air Purifier
+Room: 10000038 Appliance: Air Purifier
+Room: 10000037 Appliance: Air Purifier
+Room: 10000027 Appliance: Air Purifier
+Room: 10000026 Appliance: Air Purifier
+Room: 10000024 Appliance: Air Purifier
+Room: 10000023 Appliance: Air Purifier
+Room: 10000018 Appliance: Air Purifier
+Room: 10000014 Appliance: Air Purifier
+Room: 10000012 Appliance: Air Purifier
+Room: 10000008 Appliance: Air Purifier
+Room: 10000004 Appliance: Air Purifier
+Room: 10000004 Appliance: Air Purifier
+Room: 10000002 Appliance: Air Purifier
+Room: 10000091 Appliance: Laptop
+Room: 10000063 Appliance: Laptop
+Room: 10000040 Appliance: Laptop
+Room: 10000028 Appliance: Laptop
+Room: 10000019 Appliance: Laptop
+Room: 10000012 Appliance: Laptop
+Room: 10000005 Appliance: Laptop
+Room: 10000058 Appliance: Video Game
+Room: 10000058 Appliance: Fan (Window)
+Room: 10000058 Appliance: Range - Small Surface Unit
+Room: 10000058 Appliance: Toaster Oven
+Room: 10000058 Appliance: Lighting - 40 Watt
+Room: 10000058 Appliance: Oven
+Room: 10000058 Appliance: Clock - Electric
+Room: 10000058 Appliance: Electric Frying Pan
+Room: 10000058 Appliance: Lighting - 3 rooms (8 60W)
+Room: 10000058 Appliance: Television - 27 inch
+Room: 10000058 Appliance: Toaster Oven
+Room: 10000058 Appliance: Lighting - 60 Watt
+Room: 10000058 Appliance: DVD
+Room: 10000058 Appliance: Air Purifier
+Room: 10000058 Appliance: Clothes Dryer - Electric
+Room: 10000007 Appliance: Television - 32 inch
+Room: 10000007 Appliance: Telephone - Cordless
+Room: 10000007 Appliance: Lighting - Halogen
+Room: 10000007 Appliance: Lighting - 40 Watt
+Room: 10000007 Appliance: Television - 55 inch
+Room: 10000007 Appliance: Television - 25 inch
+Room: 10000007 Appliance: Toaster Oven
+Room: 10000007 Appliance: Lighting - Fluorescent 2 bulb
+Room: 10000007 Appliance: Ceiling Fan with 3 - 60 Watt Bulbs
+Room: 10000007 Appliance: Lighting - 10 rooms (15 60W)
+Room: 10000007 Appliance: Lighting - 60 Watt
+Room: 10000007 Appliance: Lighting - Fluorescent 2 bulb
+Room: 10000007 Appliance: Electric Frying Pan
+Room: 10000007 Appliance: Toaster
+Room: 10000007 Appliance: VCR
+Room: 10000007 Appliance: Air Conditioner - 7000 BTU
+Room: 10000007 Appliance: Air Conditioner - 7000 BTU
+Room: 10000081 Appliance: Range - Small Surface Unit
+Room: 10000081 Appliance: Exercise Equipment - Treadmill 3 H.P.
+Room: 10000081 Appliance: Television/DVD/VCR Combination
+Room: 10000081 Appliance: Lighting - 60 Watt
+Room: 10000081 Appliance: Vacuum - Regular
+Room: 10000081 Appliance: Exercise Equipment - Treadmill 2 H.P.
+Room: 10000081 Appliance: Television Plasma 42' - 50'
+Room: 10000081 Appliance: Television - 13 inch
+Room: 10000081 Appliance: Lighting - Halogen
+Room: 10000081 Appliance: Television - 43 inch
+Room: 10000081 Appliance: Ceiling Fan with 3 - 60 Watt Bulbs
+Room: 10000081 Appliance: Television - 13 inch
+Room: 10000081 Appliance: Exercise Equipment - Treadmill 2 H.P.
+Room: 10000081 Appliance: Television 42' - 50' Projection
+Room: 10000081 Appliance: Air Purifier
+Room: 10000081 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000081 Appliance: Computer with Monitor
+Room: 10000081 Appliance: Fan (Attic)
+Room: 10000081 Appliance: Fan (Attic)
+Room: 10000081 Appliance: Hair Dryer (Hand Held)
+Room: 10000076 Appliance: Range - Large Surface Unit
+Room: 10000076 Appliance: Television Plasma 42' - 50'
+Room: 10000076 Appliance: VCR
+Room: 10000076 Appliance: Computer Printer (Printing)
+Room: 10000076 Appliance: Television - 55 inch
+Room: 10000076 Appliance: Fan (Window)
+Room: 10000076 Appliance: Lighting - Halogen
+Room: 10000076 Appliance: Ceiling Fan w/o light
+Room: 10000076 Appliance: Exercise Equipment - Treadmill 3 H.P.
+Room: 10000076 Appliance: Television/DVD/VCR Combination
+Room: 10000076 Appliance: Exercise Equipment - Treadmill 2 H.P.
+Room: 10000076 Appliance: VCR
+Room: 10000076 Appliance: Telephone - Cordless
+Room: 10000076 Appliance: Answering Machine
+Room: 10000076 Appliance: DVD
+Room: 10000076 Appliance: Fax Machine
+Room: 10000076 Appliance: Exercise Equipment - Treadmill 3 H.P.
+Room: 10000076 Appliance: Dishwasher (Without Dry Cycle)
+Room: 10000076 Appliance: Air Conditioner - 7000 BTU
+Room: 10000076 Appliance: Clothes Washer
+Room: 10000039 Appliance: Stereo
+Room: 10000039 Appliance: Lighting - 60 Watt
+Room: 10000039 Appliance: Television 42' - 50' Projection
+Room: 10000039 Appliance: Fan (Window)
+Room: 10000039 Appliance: Coffee Maker
+Room: 10000039 Appliance: Fish Tank (10 Gallon)
+Room: 10000039 Appliance: Television - 25 inch
+Room: 10000039 Appliance: Fish Tank (10 Gallon)
+Room: 10000039 Appliance: Range - Large Surface Unit
+Room: 10000039 Appliance: Ceiling Fan with 3 - 60 Watt Bulbs
+Room: 10000039 Appliance: Exercise Equipment - Treadmill 3 H.P.
+Room: 10000039 Appliance: Dishwasher (Without Dry Cycle)
+Room: 10000039 Appliance: Computer with Monitor
+Room: 10000039 Appliance: Dishwasher (With Dry Cycle)
+Room: 10000039 Appliance: Clothes Washer
+Room: 10000066 Appliance: Answering Machine
+Room: 10000066 Appliance: Television - 32 inch
+Room: 10000066 Appliance: Clock - Electric
+Room: 10000066 Appliance: Lighting - 100 Watt
+Room: 10000066 Appliance: Answering Machine
+Room: 10000066 Appliance: Lighting - 3 rooms (8 60W)
+Room: 10000066 Appliance: Fax Machine
+Room: 10000066 Appliance: DVD
+Room: 10000066 Appliance: Compactor (Trash)
+Room: 10000066 Appliance: Lighting - Fluorescent 2 bulb
+Room: 10000066 Appliance: Answering Machine
+Room: 10000066 Appliance: Television - 25 inch
+Room: 10000066 Appliance: Fish Tank (10 Gallon)
+Room: 10000066 Appliance: Microwave Oven
+Room: 10000066 Appliance: Lighting - 60 Watt
+Room: 10000066 Appliance: Air Purifier
+Room: 10000034 Appliance: VCR
+Room: 10000034 Appliance: Computer Printer (Printing)
+Room: 10000034 Appliance: Television Plasma 42' - 50'
+Room: 10000034 Appliance: Stereo
+Room: 10000034 Appliance: Lawn Equipment - Hedge Trimmer
+Room: 10000034 Appliance: Television - 55 inch
+Room: 10000034 Appliance: Toaster
+Room: 10000034 Appliance: Fan
+Room: 10000034 Appliance: Lawn Equipment - Hedge Trimmer
+Room: 10000034 Appliance: Slow Cooker
+Room: 10000034 Appliance: Lighting - 5 rooms (10 60W)
+Room: 10000034 Appliance: Coffee Maker
+Room: 10000034 Appliance: Television/DVD/VCR Combination
+Room: 10000034 Appliance: Range - Small Surface Unit
+Room: 10000034 Appliance: Lawn Equipment - Weed Eater
+Room: 10000034 Appliance: Lighting - 5 rooms (10 60W)
+Room: 10000034 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000069 Appliance: Lighting - 75 Watt
+Room: 10000069 Appliance: Fan (Window)
+Room: 10000069 Appliance: Fan (Window)
+Room: 10000069 Appliance: Iron
+Room: 10000069 Appliance: Bug Killer
+Room: 10000069 Appliance: Fan
+Room: 10000069 Appliance: Computer Printer (Printing)
+Room: 10000069 Appliance: Video Game
+Room: 10000069 Appliance: Vacuum - Regular
+Room: 10000069 Appliance: Toaster
+Room: 10000069 Appliance: Lighting - 10 rooms (15 60W)
+Room: 10000069 Appliance: Lighting - Comp Fluorescent - 23 Watt
+Room: 10000069 Appliance: Exercise Equipment - Treadmill 2 H.P.
+Room: 10000069 Appliance: Television - 60 inch
+Room: 10000069 Appliance: Toaster
+Room: 10000069 Appliance: Television - 19 inch
+Room: 10000069 Appliance: Dishwasher (Without Dry Cycle)
+Room: 10000069 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000069 Appliance: Air Conditioner - 5000 BTU
+Room: 10000062 Appliance: Electric Frying Pan
+Room: 10000062 Appliance: Telephone - Cordless
+Room: 10000062 Appliance: Vacuum - Regular
+Room: 10000062 Appliance: Lighting - Comp Fluorescent - 23 Watt
+Room: 10000062 Appliance: Toaster
+Room: 10000062 Appliance: Toaster
+Room: 10000062 Appliance: Fan (Window)
+Room: 10000062 Appliance: Television - 55 inch
+Room: 10000062 Appliance: Television - 27 inch
+Room: 10000062 Appliance: Lighting - 3 rooms (8 60W)
+Room: 10000062 Appliance: Oven
+Room: 10000062 Appliance: Iron
+Room: 10000062 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000062 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000062 Appliance: Clothes Washer
+Room: 10000071 Appliance: Television Plasma 42' - 50'
+Room: 10000071 Appliance: Toaster Oven
+Room: 10000071 Appliance: Range - Large Surface Unit
+Room: 10000071 Appliance: Lighting - 60 Watt
+Room: 10000071 Appliance: Compactor (Trash)
+Room: 10000071 Appliance: Compactor (Trash)
+Room: 10000071 Appliance: Television - 36 inch
+Room: 10000071 Appliance: Toaster Oven
+Room: 10000071 Appliance: Computer Printer (Printing)
+Room: 10000071 Appliance: Fish Tank (10 Gallon)
+Room: 10000071 Appliance: Dishwasher (Without Dry Cycle)
+Room: 10000071 Appliance: Dishwasher (Without Dry Cycle)
+Room: 10000071 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000071 Appliance: Fan (Attic)
+Room: 10000071 Appliance: Clothes Dryer - Electric
+Room: 10000017 Appliance: Lawn Mower
+Room: 10000017 Appliance: Exercise Equipment - Treadmill 3 H.P.
+Room: 10000017 Appliance: Vacuum - Regular
+Room: 10000017 Appliance: Oven
+Room: 10000017 Appliance: Lighting - 100 Watt
+Room: 10000017 Appliance: Television Plasma 42' - 50'
+Room: 10000017 Appliance: Range - Large Surface Unit
+Room: 10000017 Appliance: Lighting - 40 Watt
+Room: 10000017 Appliance: Television - 43 inch
+Room: 10000017 Appliance: Lighting - 7 rooms (12 60W)
+Room: 10000017 Appliance: Lawn Mower
+Room: 10000017 Appliance: Computer with Monitor
+Room: 10000017 Appliance: Air Conditioner - 5000 BTU
+Room: 10000017 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000017 Appliance: Air Conditioner - 10000 BTU
+Room: 10000017 Appliance: Clothes Dryer - Electric
+Room: 10000026 Appliance: Lawn Mower
+Room: 10000026 Appliance: Lighting - 5 rooms (10 60W)
+Room: 10000026 Appliance: Exercise Equipment - Treadmill 2 H.P.
+Room: 10000026 Appliance: Fax Machine
+Room: 10000026 Appliance: Lighting - Comp Fluorescent - 18 Watt
+Room: 10000026 Appliance: Fan
+Room: 10000026 Appliance: Lighting - 10 rooms (15 60W)
+Room: 10000026 Appliance: Television - 36 inch
+Room: 10000026 Appliance: Lighting - Fluorescent 2 bulb
+Room: 10000026 Appliance: Fax Machine
+Room: 10000026 Appliance: Electric Frying Pan
+Room: 10000026 Appliance: Air Purifier
+Room: 10000026 Appliance: Fan (Attic)
+Room: 10000026 Appliance: Fan (Attic)
+Room: 10000026 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000094 Appliance: Telephone - Cordless
+Room: 10000094 Appliance: Lighting - Chandelier 5 - 40 Watt Bulbs
+Room: 10000094 Appliance: Answering Machine
+Room: 10000094 Appliance: Lawn Equipment - Hedge Trimmer
+Room: 10000094 Appliance: Telephone - Cordless
+Room: 10000094 Appliance: Television - 55 inch
+Room: 10000094 Appliance: Coffee Maker
+Room: 10000094 Appliance: Clock - Electric
+Room: 10000094 Appliance: VCR
+Room: 10000094 Appliance: Stereo
+Room: 10000094 Appliance: Television 42' - 50' Projection
+Room: 10000094 Appliance: Exercise Equipment - Treadmill 2 H.P.
+Room: 10000094 Appliance: Lighting - Comp Fluorescent - 23 Watt
+Room: 10000094 Appliance: Television 42' - 50' Projection
+Room: 10000094 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000094 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000094 Appliance: Air Conditioner - 7000 BTU
+Room: 10000094 Appliance: Clothes Washer
+Room: 10000094 Appliance: Hair Dryer (Hand Held)
+Room: 10000061 Appliance: Iron
+Room: 10000061 Appliance: Fish Tank (10 Gallon)
+Room: 10000061 Appliance: Television - 27 inch
+Room: 10000061 Appliance: DVD
+Room: 10000061 Appliance: Fan
+Room: 10000061 Appliance: Fish Tank (50 Gallon)
+Room: 10000061 Appliance: Answering Machine
+Room: 10000061 Appliance: Television/DVD/VCR Combination
+Room: 10000061 Appliance: Toaster Oven
+Room: 10000061 Appliance: Coffee Maker
+Room: 10000061 Appliance: Lighting - Chandelier 5 - 40 Watt Bulbs
+Room: 10000061 Appliance: Lighting - 60 Watt
+Room: 10000061 Appliance: Lawn Mower
+Room: 10000061 Appliance: Lighting - 7 rooms (12 60W)
+Room: 10000061 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000061 Appliance: Clothes Washer
+Room: 10000048 Appliance: Lighting - 75 Watt
+Room: 10000048 Appliance: Television - 19 inch
+Room: 10000048 Appliance: Lighting - 3 rooms (8 60W)
+Room: 10000048 Appliance: Lighting - 60 Watt
+Room: 10000048 Appliance: Television/DVD/VCR Combination
+Room: 10000048 Appliance: Television - 25 inch
+Room: 10000048 Appliance: Fan (Window)
+Room: 10000048 Appliance: Television Plasma 42' - 50'
+Room: 10000048 Appliance: Toaster
+Room: 10000048 Appliance: Iron
+Room: 10000048 Appliance: Lighting - Halogen
+Room: 10000048 Appliance: Lawn Equipment - Hedge Trimmer
+Room: 10000048 Appliance: Air Purifier
+Room: 10000048 Appliance: Computer with Monitor
+Room: 10000048 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000048 Appliance: Clothes Washer
+Room: 10000048 Appliance: Clothes Dryer - Electric
+
+Time Step 2, Appliances Affected: 
+
+Room: 10000099 Appliance: Air Conditioner - 10000 BTU
+Room: 10000097 Appliance: Air Conditioner - 10000 BTU
+Room: 10000089 Appliance: Air Conditioner - 10000 BTU
+Room: 10000084 Appliance: Air Conditioner - 10000 BTU
+Room: 10000057 Appliance: Air Conditioner - 10000 BTU
+Room: 10000040 Appliance: Dishwasher (With Dry Cycle)
+Room: 10000025 Appliance: Air Conditioner - 10000 BTU
+Room: 10000016 Appliance: Air Conditioner - 10000 BTU
+Room: 10000015 Appliance: Air Conditioner - 10000 BTU
+Room: 10000098 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000092 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000083 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000079 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000065 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000055 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000053 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000053 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000051 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000033 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000030 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000029 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000028 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000015 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000015 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000012 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000008 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000005 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000004 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000001 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000100 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000099 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000099 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000096 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000090 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000085 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000084 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000079 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000074 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000070 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000070 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000064 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000064 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000063 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000053 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000051 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000050 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000048 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000047 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000046 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000044 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000038 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000037 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000035 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000030 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000026 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000025 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000014 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000013 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000011 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000009 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000004 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000094 Appliance: Air Conditioner - 7000 BTU
+Room: 10000083 Appliance: Air Conditioner - 7000 BTU
+Room: 10000079 Appliance: Air Conditioner - 7000 BTU
+Room: 10000054 Appliance: Air Conditioner - 7000 BTU
+Room: 10000030 Appliance: Air Conditioner - 7000 BTU
+Room: 10000004 Appliance: Air Conditioner - 7000 BTU
+Room: 10000003 Appliance: Air Conditioner - 7000 BTU
+Room: 10000099 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000080 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000073 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000063 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000055 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000052 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000051 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000050 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000042 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000040 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000036 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000029 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000029 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000023 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000020 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000019 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000015 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000012 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000010 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000003 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000098 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000095 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000091 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000087 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000086 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000086 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000083 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000082 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000082 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000080 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000077 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000074 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000073 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000067 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000065 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000062 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000060 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000059 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000057 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000057 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000056 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000055 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000053 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000046 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000045 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000044 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000044 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000043 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000043 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000042 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000042 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000041 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000034 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000033 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000032 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000028 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000027 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000024 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000024 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000023 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000014 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000012 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000011 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000006 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000003 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000098 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000094 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000092 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000092 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000090 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000089 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000089 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000087 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000086 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000082 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000078 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000073 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000064 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000063 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000050 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000045 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000029 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000022 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000021 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000016 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000014 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000010 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000009 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000096 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000095 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000090 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000088 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000083 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000072 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000067 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000059 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000059 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000055 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000053 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000051 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000045 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000042 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000042 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000038 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000031 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000017 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000015 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000013 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000006 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000005 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000100 Appliance: Air Conditioner - 5000 BTU
+Room: 10000097 Appliance: Fan (Attic)
+Room: 10000092 Appliance: Air Conditioner - 5000 BTU
+Room: 10000018 Appliance: Air Conditioner - 5000 BTU
+Room: 10000099 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000085 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000080 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000077 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000071 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000069 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000065 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000064 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000057 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000053 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000047 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000043 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000035 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000031 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000028 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000019 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000016 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000013 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000012 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000004 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000001 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000096 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000096 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000093 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000093 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000080 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000064 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000060 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000055 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000055 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000037 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000036 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000035 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000035 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000029 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000016 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000013 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000010 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000006 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000003 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000002 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000097 Appliance: Computer with Monitor
+Room: 10000095 Appliance: Computer with Monitor
+Room: 10000092 Appliance: Computer with Monitor
+Room: 10000089 Appliance: Computer with Monitor
+Room: 10000063 Appliance: Computer with Monitor
+Room: 10000057 Appliance: Computer with Monitor
+Room: 10000043 Appliance: Computer with Monitor
+Room: 10000016 Appliance: Computer with Monitor
+Room: 10000002 Appliance: Computer with Monitor
+Room: 10000099 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000094 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000089 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000087 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000083 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000081 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000075 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000075 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000068 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000064 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000061 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000054 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000050 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000028 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000027 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000025 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000022 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000019 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000016 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000011 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000010 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000096 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000092 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000090 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000083 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000083 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000083 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000073 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000062 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000059 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000054 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000051 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000046 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000043 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000043 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000041 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000037 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000036 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000010 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000008 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000001 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000098 Appliance: Air Purifier
+Room: 10000093 Appliance: Air Purifier
+Room: 10000091 Appliance: Air Purifier
+Room: 10000089 Appliance: Air Purifier
+Room: 10000088 Appliance: Air Purifier
+Room: 10000086 Appliance: Air Purifier
+Room: 10000081 Appliance: Air Purifier
+Room: 10000079 Appliance: Air Purifier
+Room: 10000075 Appliance: Air Purifier
+Room: 10000072 Appliance: Air Purifier
+Room: 10000066 Appliance: Air Purifier
+Room: 10000060 Appliance: Air Purifier
+Room: 10000058 Appliance: Air Purifier
+Room: 10000054 Appliance: Air Purifier
+Room: 10000048 Appliance: Air Purifier
+Room: 10000040 Appliance: Air Purifier
+Room: 10000038 Appliance: Air Purifier
+Room: 10000037 Appliance: Air Purifier
+Room: 10000027 Appliance: Air Purifier
+Room: 10000026 Appliance: Air Purifier
+Room: 10000024 Appliance: Air Purifier
+Room: 10000023 Appliance: Air Purifier
+Room: 10000018 Appliance: Air Purifier
+Room: 10000014 Appliance: Air Purifier
+Room: 10000012 Appliance: Air Purifier
+Room: 10000008 Appliance: Air Purifier
+Room: 10000004 Appliance: Air Purifier
+Room: 10000004 Appliance: Air Purifier
+Room: 10000002 Appliance: Air Purifier
+Room: 10000074 Appliance: Laptop
+Room: 10000043 Appliance: Laptop
+Room: 10000041 Appliance: Laptop
+Room: 10000040 Appliance: Laptop
+Room: 10000029 Appliance: Laptop
+Room: 10000058 Appliance: Video Game
+Room: 10000058 Appliance: Fan (Window)
+Room: 10000058 Appliance: Range - Small Surface Unit
+Room: 10000058 Appliance: Toaster Oven
+Room: 10000058 Appliance: Lighting - 40 Watt
+Room: 10000058 Appliance: Oven
+Room: 10000058 Appliance: Clock - Electric
+Room: 10000058 Appliance: Electric Frying Pan
+Room: 10000058 Appliance: Lighting - 3 rooms (8 60W)
+Room: 10000058 Appliance: Television - 27 inch
+Room: 10000058 Appliance: Toaster Oven
+Room: 10000058 Appliance: Lighting - 60 Watt
+Room: 10000058 Appliance: DVD
+Room: 10000058 Appliance: Air Purifier
+Room: 10000058 Appliance: Clothes Dryer - Electric
+Room: 10000076 Appliance: Range - Large Surface Unit
+Room: 10000076 Appliance: Television Plasma 42' - 50'
+Room: 10000076 Appliance: VCR
+Room: 10000076 Appliance: Computer Printer (Printing)
+Room: 10000076 Appliance: Television - 55 inch
+Room: 10000076 Appliance: Fan (Window)
+Room: 10000076 Appliance: Lighting - Halogen
+Room: 10000076 Appliance: Ceiling Fan w/o light
+Room: 10000076 Appliance: Exercise Equipment - Treadmill 3 H.P.
+Room: 10000076 Appliance: Television/DVD/VCR Combination
+Room: 10000076 Appliance: Exercise Equipment - Treadmill 2 H.P.
+Room: 10000076 Appliance: VCR
+Room: 10000076 Appliance: Telephone - Cordless
+Room: 10000076 Appliance: Answering Machine
+Room: 10000076 Appliance: DVD
+Room: 10000076 Appliance: Fax Machine
+Room: 10000076 Appliance: Exercise Equipment - Treadmill 3 H.P.
+Room: 10000076 Appliance: Dishwasher (Without Dry Cycle)
+Room: 10000076 Appliance: Air Conditioner - 7000 BTU
+Room: 10000076 Appliance: Clothes Washer
+Room: 10000039 Appliance: Stereo
+Room: 10000039 Appliance: Lighting - 60 Watt
+Room: 10000039 Appliance: Television 42' - 50' Projection
+Room: 10000039 Appliance: Fan (Window)
+Room: 10000039 Appliance: Coffee Maker
+Room: 10000039 Appliance: Fish Tank (10 Gallon)
+Room: 10000039 Appliance: Television - 25 inch
+Room: 10000039 Appliance: Fish Tank (10 Gallon)
+Room: 10000039 Appliance: Range - Large Surface Unit
+Room: 10000039 Appliance: Ceiling Fan with 3 - 60 Watt Bulbs
+Room: 10000039 Appliance: Exercise Equipment - Treadmill 3 H.P.
+Room: 10000039 Appliance: Dishwasher (Without Dry Cycle)
+Room: 10000039 Appliance: Computer with Monitor
+Room: 10000039 Appliance: Dishwasher (With Dry Cycle)
+Room: 10000039 Appliance: Clothes Washer
+Room: 10000007 Appliance: Television - 32 inch
+Room: 10000007 Appliance: Telephone - Cordless
+Room: 10000007 Appliance: Lighting - Halogen
+Room: 10000007 Appliance: Lighting - 40 Watt
+Room: 10000007 Appliance: Television - 55 inch
+Room: 10000007 Appliance: Television - 25 inch
+Room: 10000007 Appliance: Toaster Oven
+Room: 10000007 Appliance: Lighting - Fluorescent 2 bulb
+Room: 10000007 Appliance: Ceiling Fan with 3 - 60 Watt Bulbs
+Room: 10000007 Appliance: Lighting - 10 rooms (15 60W)
+Room: 10000007 Appliance: Lighting - 60 Watt
+Room: 10000007 Appliance: Lighting - Fluorescent 2 bulb
+Room: 10000007 Appliance: Electric Frying Pan
+Room: 10000007 Appliance: Toaster
+Room: 10000007 Appliance: VCR
+Room: 10000007 Appliance: Air Conditioner - 7000 BTU
+Room: 10000007 Appliance: Air Conditioner - 7000 BTU
+Room: 10000049 Appliance: Lighting - 5 rooms (10 60W)
+Room: 10000049 Appliance: Coffee Maker
+Room: 10000049 Appliance: Lighting - 5 rooms (10 60W)
+Room: 10000049 Appliance: Lighting - 75 Watt
+Room: 10000049 Appliance: Television Plasma 42' - 50'
+Room: 10000049 Appliance: Fan (Window)
+Room: 10000049 Appliance: Clock - Electric
+Room: 10000049 Appliance: Video Game
+Room: 10000049 Appliance: Lawn Equipment - Hedge Trimmer
+Room: 10000049 Appliance: DVD
+Room: 10000049 Appliance: Lighting - Chandelier 5 - 40 Watt Bulbs
+Room: 10000049 Appliance: Coffee Maker
+Room: 10000049 Appliance: Compactor (Trash)
+Room: 10000049 Appliance: Dishwasher (Without Dry Cycle)
+Room: 10000049 Appliance: Clothes Dryer - Electric
+Room: 10000066 Appliance: Answering Machine
+Room: 10000066 Appliance: Television - 32 inch
+Room: 10000066 Appliance: Clock - Electric
+Room: 10000066 Appliance: Lighting - 100 Watt
+Room: 10000066 Appliance: Answering Machine
+Room: 10000066 Appliance: Lighting - 3 rooms (8 60W)
+Room: 10000066 Appliance: Fax Machine
+Room: 10000066 Appliance: DVD
+Room: 10000066 Appliance: Compactor (Trash)
+Room: 10000066 Appliance: Lighting - Fluorescent 2 bulb
+Room: 10000066 Appliance: Answering Machine
+Room: 10000066 Appliance: Television - 25 inch
+Room: 10000066 Appliance: Fish Tank (10 Gallon)
+Room: 10000066 Appliance: Microwave Oven
+Room: 10000066 Appliance: Lighting - 60 Watt
+Room: 10000066 Appliance: Air Purifier
+Room: 10000068 Appliance: Television - 25 inch
+Room: 10000068 Appliance: Lighting - Fluorescent 2 bulb
+Room: 10000068 Appliance: Oven
+Room: 10000068 Appliance: Television/DVD/VCR Combination
+Room: 10000068 Appliance: Video Game
+Room: 10000068 Appliance: Lighting - Halogen
+Room: 10000068 Appliance: Video Game
+Room: 10000068 Appliance: Oven
+Room: 10000068 Appliance: Ceiling Fan with 3 - 60 Watt Bulbs
+Room: 10000068 Appliance: Lighting - 3 rooms (8 60W)
+Room: 10000068 Appliance: Television - 13 inch
+Room: 10000068 Appliance: Lighting - 3 rooms (8 60W)
+Room: 10000068 Appliance: Oven
+Room: 10000068 Appliance: Toaster
+Room: 10000068 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000017 Appliance: Lawn Mower
+Room: 10000017 Appliance: Exercise Equipment - Treadmill 3 H.P.
+Room: 10000017 Appliance: Vacuum - Regular
+Room: 10000017 Appliance: Oven
+Room: 10000017 Appliance: Lighting - 100 Watt
+Room: 10000017 Appliance: Television Plasma 42' - 50'
+Room: 10000017 Appliance: Range - Large Surface Unit
+Room: 10000017 Appliance: Lighting - 40 Watt
+Room: 10000017 Appliance: Television - 43 inch
+Room: 10000017 Appliance: Lighting - 7 rooms (12 60W)
+Room: 10000017 Appliance: Lawn Mower
+Room: 10000017 Appliance: Computer with Monitor
+Room: 10000017 Appliance: Air Conditioner - 5000 BTU
+Room: 10000017 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000017 Appliance: Air Conditioner - 10000 BTU
+Room: 10000017 Appliance: Clothes Dryer - Electric
+Room: 10000088 Appliance: Compactor (Trash)
+Room: 10000088 Appliance: Ceiling Fan with 3 - 60 Watt Bulbs
+Room: 10000088 Appliance: Electric Frying Pan
+Room: 10000088 Appliance: Lighting - 40 Watt
+Room: 10000088 Appliance: Coffee Maker
+Room: 10000088 Appliance: Lighting - Comp Fluorescent - 18 Watt
+Room: 10000088 Appliance: Answering Machine
+Room: 10000088 Appliance: Lawn Equipment - Hedge Trimmer
+Room: 10000088 Appliance: Television - 32 inch
+Room: 10000088 Appliance: Lighting - 75 Watt
+Room: 10000088 Appliance: Lighting - 60 Watt
+Room: 10000088 Appliance: Computer Printer (Printing)
+Room: 10000088 Appliance: Lawn Equipment - Hedge Trimmer
+Room: 10000088 Appliance: Air Purifier
+Room: 10000088 Appliance: Dishwasher (Without Dry Cycle)
+Room: 10000088 Appliance: Air Conditioner - 5000 BTU
+Room: 10000088 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000088 Appliance: Hair Dryer (Hand Held)
+Room: 10000032 Appliance: Lighting - 60 Watt
+Room: 10000032 Appliance: Lighting - 3 rooms (8 60W)
+Room: 10000032 Appliance: Lighting - 40 Watt
+Room: 10000032 Appliance: Television - 55 inch
+Room: 10000032 Appliance: Lawn Equipment - Weed Eater
+Room: 10000032 Appliance: Electric Frying Pan
+Room: 10000032 Appliance: Lighting - 10 rooms (15 60W)
+Room: 10000032 Appliance: Ceiling Fan with 3 - 60 Watt Bulbs
+Room: 10000032 Appliance: Lighting - Fluorescent 2 bulb
+Room: 10000032 Appliance: Oven
+Room: 10000032 Appliance: Television - 13 inch
+Room: 10000032 Appliance: Lawn Equipment - Hedge Trimmer
+Room: 10000032 Appliance: Vacuum - Regular
+Room: 10000032 Appliance: Television - 25 inch
+Room: 10000032 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000062 Appliance: Electric Frying Pan
+Room: 10000062 Appliance: Telephone - Cordless
+Room: 10000062 Appliance: Vacuum - Regular
+Room: 10000062 Appliance: Lighting - Comp Fluorescent - 23 Watt
+Room: 10000062 Appliance: Toaster
+Room: 10000062 Appliance: Toaster
+Room: 10000062 Appliance: Fan (Window)
+Room: 10000062 Appliance: Television - 55 inch
+Room: 10000062 Appliance: Television - 27 inch
+Room: 10000062 Appliance: Lighting - 3 rooms (8 60W)
+Room: 10000062 Appliance: Oven
+Room: 10000062 Appliance: Iron
+Room: 10000062 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000062 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000062 Appliance: Clothes Washer
+Room: 10000020 Appliance: Microwave Oven
+Room: 10000020 Appliance: Range - Large Surface Unit
+Room: 10000020 Appliance: Oven
+Room: 10000020 Appliance: Toaster
+Room: 10000020 Appliance: Video Game
+Room: 10000020 Appliance: Exercise Equipment - Treadmill 3 H.P.
+Room: 10000020 Appliance: Television/DVD/VCR Combination
+Room: 10000020 Appliance: Television - 36 inch
+Room: 10000020 Appliance: Computer Printer (Printing)
+Room: 10000020 Appliance: Lighting - Fluorescent 2 bulb
+Room: 10000020 Appliance: Stereo
+Room: 10000020 Appliance: Electric Frying Pan
+Room: 10000020 Appliance: DVD
+Room: 10000020 Appliance: Lighting - 60 Watt
+Room: 10000020 Appliance: Fan (Attic)
+Room: 10000020 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000056 Appliance: Range - Large Surface Unit
+Room: 10000056 Appliance: Oven
+Room: 10000056 Appliance: Lighting - Comp Fluorescent - 18 Watt
+Room: 10000056 Appliance: Fish Tank (10 Gallon)
+Room: 10000056 Appliance: Exercise Equipment - Treadmill 2 H.P.
+Room: 10000056 Appliance: Iron
+Room: 10000056 Appliance: Range - Small Surface Unit
+Room: 10000056 Appliance: Ceiling Fan w/o light
+Room: 10000056 Appliance: Slow Cooker
+Room: 10000056 Appliance: Fax Machine
+Room: 10000056 Appliance: Bug Killer
+Room: 10000056 Appliance: Television - 55 inch
+Room: 10000056 Appliance: Fax Machine
+Room: 10000056 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000056 Appliance: Dishwasher (With Dry Cycle)
+Room: 10000048 Appliance: Lighting - 75 Watt
+Room: 10000048 Appliance: Television - 19 inch
+Room: 10000048 Appliance: Lighting - 3 rooms (8 60W)
+Room: 10000048 Appliance: Lighting - 60 Watt
+Room: 10000048 Appliance: Television/DVD/VCR Combination
+Room: 10000048 Appliance: Television - 25 inch
+Room: 10000048 Appliance: Fan (Window)
+Room: 10000048 Appliance: Television Plasma 42' - 50'
+Room: 10000048 Appliance: Toaster
+Room: 10000048 Appliance: Iron
+Room: 10000048 Appliance: Lighting - Halogen
+Room: 10000048 Appliance: Lawn Equipment - Hedge Trimmer
+Room: 10000048 Appliance: Air Purifier
+Room: 10000048 Appliance: Computer with Monitor
+Room: 10000048 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000048 Appliance: Clothes Washer
+Room: 10000048 Appliance: Clothes Dryer - Electric
+Room: 10000081 Appliance: Range - Small Surface Unit
+Room: 10000081 Appliance: Exercise Equipment - Treadmill 3 H.P.
+Room: 10000081 Appliance: Television/DVD/VCR Combination
+Room: 10000081 Appliance: Lighting - 60 Watt
+Room: 10000081 Appliance: Vacuum - Regular
+Room: 10000081 Appliance: Exercise Equipment - Treadmill 2 H.P.
+Room: 10000081 Appliance: Television Plasma 42' - 50'
+Room: 10000081 Appliance: Television - 13 inch
+Room: 10000081 Appliance: Lighting - Halogen
+Room: 10000081 Appliance: Television - 43 inch
+Room: 10000081 Appliance: Ceiling Fan with 3 - 60 Watt Bulbs
+Room: 10000081 Appliance: Television - 13 inch
+Room: 10000081 Appliance: Exercise Equipment - Treadmill 2 H.P.
+Room: 10000081 Appliance: Television 42' - 50' Projection
+Room: 10000081 Appliance: Air Purifier
+Room: 10000081 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000081 Appliance: Computer with Monitor
+Room: 10000081 Appliance: Fan (Attic)
+Room: 10000081 Appliance: Fan (Attic)
+Room: 10000081 Appliance: Hair Dryer (Hand Held)
+Room: 10000054 Appliance: Compactor (Trash)
+Room: 10000054 Appliance: Answering Machine
+Room: 10000054 Appliance: Ceiling Fan w/o light
+Room: 10000054 Appliance: Lighting - Comp Fluorescent - 18 Watt
+Room: 10000054 Appliance: Clock - Electric
+Room: 10000054 Appliance: Lighting - Halogen
+Room: 10000054 Appliance: Fan (Window)
+Room: 10000054 Appliance: Lighting - 75 Watt
+Room: 10000054 Appliance: Slow Cooker
+Room: 10000054 Appliance: Lighting - 3 rooms (8 60W)
+Room: 10000054 Appliance: Air Purifier
+Room: 10000054 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000054 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000054 Appliance: Air Conditioner - 7000 BTU
+Room: 10000054 Appliance: Clothes Washer
+Room: 10000054 Appliance: Clothes Dryer - Electric
+Room: 10000075 Appliance: Television - 36 inch
+Room: 10000075 Appliance: Toaster
+Room: 10000075 Appliance: Fish Tank (50 Gallon)
+Room: 10000075 Appliance: Lighting - Fluorescent 2 bulb
+Room: 10000075 Appliance: Television - 60 inch
+Room: 10000075 Appliance: Oven
+Room: 10000075 Appliance: Fax Machine
+Room: 10000075 Appliance: Television - 32 inch
+Room: 10000075 Appliance: Lighting - 7 rooms (12 60W)
+Room: 10000075 Appliance: Television - 19 inch
+Room: 10000075 Appliance: Computer Printer (Printing)
+Room: 10000075 Appliance: Range - Large Surface Unit
+Room: 10000075 Appliance: Exercise Equipment - Treadmill 2 H.P.
+Room: 10000075 Appliance: Television 42' - 50' Projection
+Room: 10000075 Appliance: Air Purifier
+Room: 10000075 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000075 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000075 Appliance: Air Conditioner - 5000 BTU
+Room: 10000075 Appliance: Fan (Attic)
+Room: 10000075 Appliance: Air Conditioner - 7000 BTU
+Room: 10000022 Appliance: Television - 60 inch
+Room: 10000022 Appliance: Microwave Oven
+Room: 10000022 Appliance: Lighting - 3 rooms (8 60W)
+Room: 10000022 Appliance: Ceiling Fan w/o light
+Room: 10000022 Appliance: Television - 25 inch
+Room: 10000022 Appliance: Lighting - 40 Watt
+Room: 10000022 Appliance: VCR
+Room: 10000022 Appliance: Television - 55 inch
+Room: 10000022 Appliance: Toaster Oven
+Room: 10000022 Appliance: Iron
+Room: 10000022 Appliance: Fax Machine
+Room: 10000022 Appliance: Fish Tank (10 Gallon)
+Room: 10000022 Appliance: Compactor (Trash)
+Room: 10000022 Appliance: Television - 13 inch
+Room: 10000022 Appliance: Electric Frying Pan
+Room: 10000022 Appliance: Clock - Electric
+Room: 10000022 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000022 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000022 Appliance: Air Conditioner - 7000 BTU
+Room: 10000021 Appliance: Fax Machine
+Room: 10000021 Appliance: Television/DVD/VCR Combination
+Room: 10000021 Appliance: Television - 55 inch
+Room: 10000021 Appliance: Exercise Equipment - Treadmill 2 H.P.
+Room: 10000021 Appliance: Television Plasma 42' - 50'
+Room: 10000021 Appliance: Lighting - 10 rooms (15 60W)
+Room: 10000021 Appliance: Lighting - Chandelier 5 - 40 Watt Bulbs
+Room: 10000021 Appliance: Microwave Oven
+Room: 10000021 Appliance: Lighting - 5 rooms (10 60W)
+Room: 10000021 Appliance: Lighting - Comp Fluorescent - 23 Watt
+Room: 10000021 Appliance: VCR
+Room: 10000021 Appliance: Telephone - Cordless
+Room: 10000021 Appliance: Electric Frying Pan
+Room: 10000021 Appliance: Computer Printer (Printing)
+Room: 10000021 Appliance: Lawn Equipment - Weed Eater
+Room: 10000021 Appliance: Television - 13 inch
+Room: 10000021 Appliance: Television - 19 inch
+Room: 10000021 Appliance: Toaster Oven
+Room: 10000021 Appliance: Dishwasher (Without Dry Cycle)
+Room: 10000021 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000078 Appliance: Television - 36 inch
+Room: 10000078 Appliance: Lighting - 60 Watt
+Room: 10000078 Appliance: Toaster Oven
+Room: 10000078 Appliance: Lighting - 60 Watt
+Room: 10000078 Appliance: Lawn Equipment - Weed Eater
+Room: 10000078 Appliance: Toaster Oven
+Room: 10000078 Appliance: Range - Large Surface Unit
+Room: 10000078 Appliance: Lighting - Fluorescent 2 bulb
+Room: 10000078 Appliance: Lighting - 60 Watt
+Room: 10000078 Appliance: Television - 36 inch
+Room: 10000078 Appliance: Ceiling Fan with 3 - 60 Watt Bulbs
+Room: 10000078 Appliance: Ceiling Fan w/o light
+Room: 10000078 Appliance: Lighting - 60 Watt
+Room: 10000078 Appliance: Fan (Window)
+Room: 10000078 Appliance: Computer with Monitor
+Room: 10000078 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000078 Appliance: Air Conditioner - 10000 BTU
+Room: 10000078 Appliance: Dishwasher (With Dry Cycle)
+Room: 10000078 Appliance: Clothes Washer
+Room: 10000093 Appliance: Exercise Equipment - Treadmill 3 H.P.
+Room: 10000093 Appliance: Fax Machine
+Room: 10000093 Appliance: Electric Frying Pan
+Room: 10000093 Appliance: Lighting - 40 Watt
+Room: 10000093 Appliance: Lawn Equipment - Hedge Trimmer
+Room: 10000093 Appliance: Lighting - 60 Watt
+Room: 10000093 Appliance: Lighting - 75 Watt
+Room: 10000093 Appliance: Clock - Electric
+Room: 10000093 Appliance: Television - 32 inch
+Room: 10000093 Appliance: Lighting - Halogen
+Room: 10000093 Appliance: Air Purifier
+Room: 10000093 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000093 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000093 Appliance: Fan (Attic)
+Room: 10000093 Appliance: Air Conditioner - 7000 BTU
+Room: 10000093 Appliance: Clothes Dryer - Electric
+Room: 10000052 Appliance: Television - 55 inch
+Room: 10000052 Appliance: Fish Tank (10 Gallon)
+Room: 10000052 Appliance: Television - 55 inch
+Room: 10000052 Appliance: Exercise Equipment - Treadmill 2 H.P.
+Room: 10000052 Appliance: Lighting - 10 rooms (15 60W)
+Room: 10000052 Appliance: Lighting - 7 rooms (12 60W)
+Room: 10000052 Appliance: Television Plasma 42' - 50'
+Room: 10000052 Appliance: Television - 36 inch
+Room: 10000052 Appliance: Microwave Oven
+Room: 10000052 Appliance: Clock - Electric
+Room: 10000052 Appliance: Lighting - 60 Watt
+Room: 10000052 Appliance: Computer Printer (Printing)
+Room: 10000052 Appliance: Telephone - Cordless
+Room: 10000052 Appliance: Fax Machine
+Room: 10000052 Appliance: Range - Small Surface Unit
+Room: 10000052 Appliance: Oven
+Room: 10000052 Appliance: Laptop
+Room: 10000052 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000052 Appliance: Hair Dryer (Hand Held)
+Room: 10000052 Appliance: Hair Dryer (Hand Held)
+Room: 10000091 Appliance: Lawn Mower
+Room: 10000091 Appliance: VCR
+Room: 10000091 Appliance: Ceiling Fan w/o light
+Room: 10000091 Appliance: Television - 27 inch
+Room: 10000091 Appliance: Coffee Maker
+Room: 10000091 Appliance: Television - 43 inch
+Room: 10000091 Appliance: Ceiling Fan with 3 - 60 Watt Bulbs
+Room: 10000091 Appliance: Lighting - 100 Watt
+Room: 10000091 Appliance: Fax Machine
+Room: 10000091 Appliance: Fish Tank (50 Gallon)
+Room: 10000091 Appliance: Bug Killer
+Room: 10000091 Appliance: Lawn Equipment - Weed Eater
+Room: 10000091 Appliance: Answering Machine
+Room: 10000091 Appliance: Laptop
+Room: 10000091 Appliance: Air Purifier
+Room: 10000091 Appliance: Air Conditioner - 5000 BTU
+Room: 10000091 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000091 Appliance: Clothes Dryer - Electric
+Room: 10000019 Appliance: Microwave Oven
+Room: 10000019 Appliance: Range - Large Surface Unit
+Room: 10000019 Appliance: Coffee Maker
+Room: 10000019 Appliance: Lawn Mower
+Room: 10000019 Appliance: Lighting - Fluorescent 2 bulb
+Room: 10000019 Appliance: Toaster
+Room: 10000019 Appliance: Lighting - 7 rooms (12 60W)
+Room: 10000019 Appliance: Microwave Oven
+Room: 10000019 Appliance: Lighting - 3 rooms (8 60W)
+Room: 10000019 Appliance: Lighting - Fluorescent 2 bulb
+Room: 10000019 Appliance: Answering Machine
+Room: 10000019 Appliance: Computer Printer (Printing)
+Room: 10000019 Appliance: Laptop
+Room: 10000019 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000019 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000019 Appliance: Air Conditioner - 5000 BTU
+Room: 10000019 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000019 Appliance: Air Conditioner - 10000 BTU
+Room: 10000077 Appliance: Fax Machine
+Room: 10000077 Appliance: Lawn Mower
+Room: 10000077 Appliance: Clock - Electric
+Room: 10000077 Appliance: Lighting - 60 Watt
+Room: 10000077 Appliance: Stereo
+Room: 10000077 Appliance: Television 42' - 50' Projection
+Room: 10000077 Appliance: Television - 27 inch
+Room: 10000077 Appliance: Ceiling Fan with 3 - 60 Watt Bulbs
+Room: 10000077 Appliance: Fax Machine
+Room: 10000077 Appliance: Ceiling Fan with 3 - 60 Watt Bulbs
+Room: 10000077 Appliance: Television - 43 inch
+Room: 10000077 Appliance: Television - 43 inch
+Room: 10000077 Appliance: Dishwasher (Without Dry Cycle)
+Room: 10000077 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000077 Appliance: Fan (Attic)
+Room: 10000077 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000005 Appliance: Lighting - 40 Watt
+Room: 10000005 Appliance: Microwave Oven
+Room: 10000005 Appliance: Oven
+Room: 10000005 Appliance: Range - Small Surface Unit
+Room: 10000005 Appliance: Answering Machine
+Room: 10000005 Appliance: Coffee Maker
+Room: 10000005 Appliance: Coffee Maker
+Room: 10000005 Appliance: Compactor (Trash)
+Room: 10000005 Appliance: Television - 43 inch
+Room: 10000005 Appliance: Range - Large Surface Unit
+Room: 10000005 Appliance: Laptop
+Room: 10000005 Appliance: Dishwasher (Without Dry Cycle)
+Room: 10000005 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000005 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000005 Appliance: Dishwasher (With Dry Cycle)
+Room: 10000047 Appliance: Stereo
+Room: 10000047 Appliance: Lighting - Comp Fluorescent - 18 Watt
+Room: 10000047 Appliance: Lighting - 40 Watt
+Room: 10000047 Appliance: Television - 25 inch
+Room: 10000047 Appliance: Lighting - Comp Fluorescent - 23 Watt
+Room: 10000047 Appliance: DVD
+Room: 10000047 Appliance: Television - 13 inch
+Room: 10000047 Appliance: Television - 32 inch
+Room: 10000047 Appliance: VCR
+Room: 10000047 Appliance: Television Plasma 42' - 50'
+Room: 10000047 Appliance: Slow Cooker
+Room: 10000047 Appliance: Telephone - Cordless
+Room: 10000047 Appliance: Dishwasher (Without Dry Cycle)
+Room: 10000047 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000047 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000047 Appliance: Clothes Dryer - Electric
+Room: 10000085 Appliance: Fan (Window)
+Room: 10000085 Appliance: Television - 25 inch
+Room: 10000085 Appliance: Television - 36 inch
+Room: 10000085 Appliance: Ceiling Fan w/o light
+Room: 10000085 Appliance: Television 42' - 50' Projection
+Room: 10000085 Appliance: Lighting - Comp Fluorescent - 18 Watt
+Room: 10000085 Appliance: Slow Cooker
+Room: 10000085 Appliance: Stereo
+Room: 10000085 Appliance: Toaster Oven
+Room: 10000085 Appliance: Oven
+Room: 10000085 Appliance: Ceiling Fan w/o light
+Room: 10000085 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000085 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000085 Appliance: Air Conditioner - 10000 BTU
+Room: 10000085 Appliance: Air Conditioner - 10000 BTU
+Room: 10000074 Appliance: Computer Printer (Printing)
+Room: 10000074 Appliance: Lawn Equipment - Weed Eater
+Room: 10000074 Appliance: Television - 27 inch
+Room: 10000074 Appliance: Compactor (Trash)
+Room: 10000074 Appliance: Lighting - Chandelier 5 - 40 Watt Bulbs
+Room: 10000074 Appliance: Vacuum - Regular
+Room: 10000074 Appliance: Lighting - Comp Fluorescent - 18 Watt
+Room: 10000074 Appliance: Toaster Oven
+Room: 10000074 Appliance: Exercise Equipment - Treadmill 3 H.P.
+Room: 10000074 Appliance: Laptop
+Room: 10000074 Appliance: Laptop
+Room: 10000074 Appliance: Fan (Attic)
+Room: 10000074 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000074 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000074 Appliance: Air Conditioner - 10000 BTU
+Room: 10000074 Appliance: Clothes Washer
+Room: 10000074 Appliance: Hair Dryer (Hand Held)
+
+Time Step 3, Appliances Affected: 
+
+Room: 10000097 Appliance: Air Conditioner - 10000 BTU
+Room: 10000089 Appliance: Air Conditioner - 10000 BTU
+Room: 10000063 Appliance: Air Conditioner - 10000 BTU
+Room: 10000045 Appliance: Air Conditioner - 10000 BTU
+Room: 10000002 Appliance: Air Conditioner - 10000 BTU
+Room: 10000098 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000092 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000083 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000079 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000065 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000055 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000053 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000053 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000051 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000033 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000030 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000029 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000028 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000015 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000015 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000012 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000008 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000005 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000004 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000001 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000100 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000099 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000099 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000096 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000090 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000085 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000084 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000079 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000074 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000070 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000070 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000064 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000064 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000063 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000053 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000051 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000050 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000048 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000047 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000046 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000044 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000038 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000037 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000035 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000030 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000026 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000025 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000014 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000013 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000011 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000009 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000004 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000095 Appliance: Air Conditioner - 7000 BTU
+Room: 10000093 Appliance: Air Conditioner - 7000 BTU
+Room: 10000079 Appliance: Air Conditioner - 7000 BTU
+Room: 10000057 Appliance: Air Conditioner - 7000 BTU
+Room: 10000016 Appliance: Air Conditioner - 7000 BTU
+Room: 10000015 Appliance: Air Conditioner - 7000 BTU
+Room: 10000099 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000080 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000073 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000063 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000055 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000052 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000051 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000050 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000042 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000040 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000036 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000029 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000029 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000023 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000020 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000019 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000015 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000012 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000010 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000003 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000098 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000095 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000091 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000087 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000086 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000086 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000083 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000082 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000082 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000080 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000077 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000074 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000073 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000067 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000065 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000062 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000060 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000059 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000057 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000057 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000056 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000055 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000053 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000046 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000045 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000044 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000044 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000043 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000043 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000042 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000042 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000041 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000034 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000033 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000032 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000028 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000027 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000024 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000024 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000023 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000014 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000012 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000011 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000006 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000003 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000098 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000094 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000092 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000092 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000090 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000089 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000089 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000087 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000086 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000082 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000078 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000073 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000064 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000063 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000050 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000045 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000029 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000022 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000021 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000016 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000014 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000010 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000009 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000096 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000095 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000090 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000088 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000083 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000072 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000067 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000059 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000059 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000055 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000053 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000051 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000045 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000042 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000042 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000038 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000031 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000017 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000015 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000013 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000006 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000005 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000088 Appliance: Air Conditioner - 5000 BTU
+Room: 10000075 Appliance: Air Conditioner - 5000 BTU
+Room: 10000045 Appliance: Air Conditioner - 5000 BTU
+Room: 10000099 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000085 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000080 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000077 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000071 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000069 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000065 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000064 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000057 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000053 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000047 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000043 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000035 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000031 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000028 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000019 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000016 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000013 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000012 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000004 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000001 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000096 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000096 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000093 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000093 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000080 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000064 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000060 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000055 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000055 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000037 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000036 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000035 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000035 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000029 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000016 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000013 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000010 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000006 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000003 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000002 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000095 Appliance: Computer with Monitor
+Room: 10000092 Appliance: Computer with Monitor
+Room: 10000089 Appliance: Computer with Monitor
+Room: 10000064 Appliance: Computer with Monitor
+Room: 10000063 Appliance: Computer with Monitor
+Room: 10000057 Appliance: Computer with Monitor
+Room: 10000057 Appliance: Computer with Monitor
+Room: 10000043 Appliance: Computer with Monitor
+Room: 10000039 Appliance: Computer with Monitor
+Room: 10000027 Appliance: Computer with Monitor
+Room: 10000016 Appliance: Computer with Monitor
+Room: 10000099 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000094 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000089 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000087 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000083 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000081 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000075 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000075 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000068 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000064 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000061 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000054 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000050 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000028 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000027 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000025 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000022 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000019 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000016 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000011 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000010 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000082 Appliance: Dishwasher (Without Dry Cycle)
+Room: 10000096 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000092 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000090 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000083 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000083 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000083 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000073 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000062 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000059 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000054 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000051 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000046 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000043 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000043 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000041 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000037 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000036 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000010 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000008 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000001 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000098 Appliance: Air Purifier
+Room: 10000093 Appliance: Air Purifier
+Room: 10000091 Appliance: Air Purifier
+Room: 10000089 Appliance: Air Purifier
+Room: 10000088 Appliance: Air Purifier
+Room: 10000086 Appliance: Air Purifier
+Room: 10000081 Appliance: Air Purifier
+Room: 10000079 Appliance: Air Purifier
+Room: 10000075 Appliance: Air Purifier
+Room: 10000072 Appliance: Air Purifier
+Room: 10000066 Appliance: Air Purifier
+Room: 10000060 Appliance: Air Purifier
+Room: 10000058 Appliance: Air Purifier
+Room: 10000054 Appliance: Air Purifier
+Room: 10000048 Appliance: Air Purifier
+Room: 10000040 Appliance: Air Purifier
+Room: 10000038 Appliance: Air Purifier
+Room: 10000037 Appliance: Air Purifier
+Room: 10000027 Appliance: Air Purifier
+Room: 10000026 Appliance: Air Purifier
+Room: 10000024 Appliance: Air Purifier
+Room: 10000023 Appliance: Air Purifier
+Room: 10000018 Appliance: Air Purifier
+Room: 10000014 Appliance: Air Purifier
+Room: 10000012 Appliance: Air Purifier
+Room: 10000008 Appliance: Air Purifier
+Room: 10000004 Appliance: Air Purifier
+Room: 10000004 Appliance: Air Purifier
+Room: 10000002 Appliance: Air Purifier
+Room: 10000063 Appliance: Laptop
+Room: 10000038 Appliance: Laptop
+Room: 10000029 Appliance: Laptop
+Room: 10000009 Appliance: Laptop
+Room: 10000066 Appliance: Answering Machine
+Room: 10000066 Appliance: Television - 32 inch
+Room: 10000066 Appliance: Clock - Electric
+Room: 10000066 Appliance: Lighting - 100 Watt
+Room: 10000066 Appliance: Answering Machine
+Room: 10000066 Appliance: Lighting - 3 rooms (8 60W)
+Room: 10000066 Appliance: Fax Machine
+Room: 10000066 Appliance: DVD
+Room: 10000066 Appliance: Compactor (Trash)
+Room: 10000066 Appliance: Lighting - Fluorescent 2 bulb
+Room: 10000066 Appliance: Answering Machine
+Room: 10000066 Appliance: Television - 25 inch
+Room: 10000066 Appliance: Fish Tank (10 Gallon)
+Room: 10000066 Appliance: Microwave Oven
+Room: 10000066 Appliance: Lighting - 60 Watt
+Room: 10000066 Appliance: Air Purifier
+Room: 10000018 Appliance: Vacuum - Regular
+Room: 10000018 Appliance: Lighting - 60 Watt
+Room: 10000018 Appliance: Lighting - 100 Watt
+Room: 10000018 Appliance: Television Plasma 42' - 50'
+Room: 10000018 Appliance: Coffee Maker
+Room: 10000018 Appliance: Exercise Equipment - Treadmill 3 H.P.
+Room: 10000018 Appliance: Exercise Equipment - Treadmill 3 H.P.
+Room: 10000018 Appliance: Lawn Equipment - Weed Eater
+Room: 10000018 Appliance: Lighting - 100 Watt
+Room: 10000018 Appliance: Lighting - 40 Watt
+Room: 10000018 Appliance: Toaster
+Room: 10000018 Appliance: VCR
+Room: 10000018 Appliance: Lighting - 7 rooms (12 60W)
+Room: 10000018 Appliance: Lighting - 75 Watt
+Room: 10000018 Appliance: Fish Tank (50 Gallon)
+Room: 10000018 Appliance: Air Purifier
+Room: 10000018 Appliance: Air Conditioner - 5000 BTU
+Room: 10000018 Appliance: Clothes Dryer - Electric
+Room: 10000058 Appliance: Video Game
+Room: 10000058 Appliance: Fan (Window)
+Room: 10000058 Appliance: Range - Small Surface Unit
+Room: 10000058 Appliance: Toaster Oven
+Room: 10000058 Appliance: Lighting - 40 Watt
+Room: 10000058 Appliance: Oven
+Room: 10000058 Appliance: Clock - Electric
+Room: 10000058 Appliance: Electric Frying Pan
+Room: 10000058 Appliance: Lighting - 3 rooms (8 60W)
+Room: 10000058 Appliance: Television - 27 inch
+Room: 10000058 Appliance: Toaster Oven
+Room: 10000058 Appliance: Lighting - 60 Watt
+Room: 10000058 Appliance: DVD
+Room: 10000058 Appliance: Air Purifier
+Room: 10000058 Appliance: Clothes Dryer - Electric
+Room: 10000054 Appliance: Compactor (Trash)
+Room: 10000054 Appliance: Answering Machine
+Room: 10000054 Appliance: Ceiling Fan w/o light
+Room: 10000054 Appliance: Lighting - Comp Fluorescent - 18 Watt
+Room: 10000054 Appliance: Clock - Electric
+Room: 10000054 Appliance: Lighting - Halogen
+Room: 10000054 Appliance: Fan (Window)
+Room: 10000054 Appliance: Lighting - 75 Watt
+Room: 10000054 Appliance: Slow Cooker
+Room: 10000054 Appliance: Lighting - 3 rooms (8 60W)
+Room: 10000054 Appliance: Air Purifier
+Room: 10000054 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000054 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000054 Appliance: Air Conditioner - 7000 BTU
+Room: 10000054 Appliance: Clothes Washer
+Room: 10000054 Appliance: Clothes Dryer - Electric
+Room: 10000071 Appliance: Television Plasma 42' - 50'
+Room: 10000071 Appliance: Toaster Oven
+Room: 10000071 Appliance: Range - Large Surface Unit
+Room: 10000071 Appliance: Lighting - 60 Watt
+Room: 10000071 Appliance: Compactor (Trash)
+Room: 10000071 Appliance: Compactor (Trash)
+Room: 10000071 Appliance: Television - 36 inch
+Room: 10000071 Appliance: Toaster Oven
+Room: 10000071 Appliance: Computer Printer (Printing)
+Room: 10000071 Appliance: Fish Tank (10 Gallon)
+Room: 10000071 Appliance: Dishwasher (Without Dry Cycle)
+Room: 10000071 Appliance: Dishwasher (Without Dry Cycle)
+Room: 10000071 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000071 Appliance: Fan (Attic)
+Room: 10000071 Appliance: Clothes Dryer - Electric
+
+Time Step 4, Appliances Affected: 
+
+Room: 10000091 Appliance: Clothes Dryer - Electric
+Room: 10000049 Appliance: Clothes Dryer - Electric
+Room: 10000018 Appliance: Clothes Dryer - Electric
+Room: 10000094 Appliance: Hair Dryer (Hand Held)
+Room: 10000089 Appliance: Air Conditioner - 10000 BTU
+Room: 10000085 Appliance: Air Conditioner - 10000 BTU
+Room: 10000084 Appliance: Air Conditioner - 10000 BTU
+Room: 10000078 Appliance: Air Conditioner - 10000 BTU
+Room: 10000072 Appliance: Air Conditioner - 10000 BTU
+Room: 10000051 Appliance: Air Conditioner - 10000 BTU
+Room: 10000019 Appliance: Air Conditioner - 10000 BTU
+Room: 10000016 Appliance: Air Conditioner - 10000 BTU
+Room: 10000098 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000092 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000083 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000079 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000065 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000055 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000053 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000053 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000051 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000033 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000030 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000029 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000028 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000015 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000015 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000012 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000008 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000005 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000004 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000001 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000100 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000099 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000099 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000096 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000090 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000085 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000084 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000079 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000074 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000070 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000070 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000064 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000064 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000063 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000053 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000051 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000050 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000048 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000047 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000046 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000044 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000038 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000037 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000035 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000030 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000026 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000025 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000014 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000013 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000011 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000009 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000004 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000079 Appliance: Air Conditioner - 7000 BTU
+Room: 10000075 Appliance: Air Conditioner - 7000 BTU
+Room: 10000057 Appliance: Air Conditioner - 7000 BTU
+Room: 10000015 Appliance: Air Conditioner - 7000 BTU
+Room: 10000007 Appliance: Air Conditioner - 7000 BTU
+Room: 10000007 Appliance: Air Conditioner - 7000 BTU
+Room: 10000099 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000080 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000073 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000063 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000055 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000052 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000051 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000050 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000042 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000040 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000036 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000029 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000029 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000023 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000020 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000019 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000015 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000012 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000010 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000003 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000098 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000095 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000091 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000087 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000086 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000086 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000083 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000082 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000082 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000080 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000077 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000074 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000073 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000067 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000065 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000062 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000060 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000059 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000057 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000057 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000056 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000055 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000053 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000046 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000045 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000044 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000044 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000043 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000043 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000042 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000042 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000041 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000034 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000033 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000032 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000028 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000027 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000024 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000024 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000023 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000014 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000012 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000011 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000006 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000003 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000098 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000094 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000092 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000092 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000090 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000089 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000089 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000087 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000086 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000082 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000078 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000073 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000064 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000063 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000050 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000045 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000029 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000022 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000021 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000016 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000014 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000010 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000009 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000096 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000095 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000090 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000088 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000083 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000072 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000067 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000059 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000059 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000055 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000053 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000051 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000045 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000042 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000042 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000038 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000031 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000017 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000015 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000013 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000006 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000005 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000091 Appliance: Air Conditioner - 5000 BTU
+Room: 10000088 Appliance: Air Conditioner - 5000 BTU
+Room: 10000075 Appliance: Air Conditioner - 5000 BTU
+Room: 10000044 Appliance: Air Conditioner - 5000 BTU
+Room: 10000099 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000085 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000080 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000077 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000071 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000069 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000065 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000064 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000057 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000053 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000047 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000043 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000035 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000031 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000028 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000019 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000016 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000013 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000012 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000004 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000001 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000096 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000096 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000093 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000093 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000080 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000064 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000060 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000055 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000055 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000037 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000036 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000035 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000035 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000029 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000016 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000013 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000010 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000006 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000003 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000002 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000097 Appliance: Computer with Monitor
+Room: 10000095 Appliance: Computer with Monitor
+Room: 10000089 Appliance: Computer with Monitor
+Room: 10000078 Appliance: Computer with Monitor
+Room: 10000063 Appliance: Computer with Monitor
+Room: 10000048 Appliance: Computer with Monitor
+Room: 10000043 Appliance: Computer with Monitor
+Room: 10000039 Appliance: Computer with Monitor
+Room: 10000027 Appliance: Computer with Monitor
+Room: 10000017 Appliance: Computer with Monitor
+Room: 10000099 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000094 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000089 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000087 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000083 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000081 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000075 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000075 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000068 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000064 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000061 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000054 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000050 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000028 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000027 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000025 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000022 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000019 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000016 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000011 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000010 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000005 Appliance: Dishwasher (Without Dry Cycle)
+Room: 10000001 Appliance: Dishwasher (Without Dry Cycle)
+Room: 10000096 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000092 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000090 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000083 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000083 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000083 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000073 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000062 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000059 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000054 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000051 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000046 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000043 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000043 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000041 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000037 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000036 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000010 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000008 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000001 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000098 Appliance: Air Purifier
+Room: 10000093 Appliance: Air Purifier
+Room: 10000091 Appliance: Air Purifier
+Room: 10000089 Appliance: Air Purifier
+Room: 10000088 Appliance: Air Purifier
+Room: 10000086 Appliance: Air Purifier
+Room: 10000081 Appliance: Air Purifier
+Room: 10000079 Appliance: Air Purifier
+Room: 10000075 Appliance: Air Purifier
+Room: 10000072 Appliance: Air Purifier
+Room: 10000066 Appliance: Air Purifier
+Room: 10000060 Appliance: Air Purifier
+Room: 10000058 Appliance: Air Purifier
+Room: 10000054 Appliance: Air Purifier
+Room: 10000048 Appliance: Air Purifier
+Room: 10000040 Appliance: Air Purifier
+Room: 10000038 Appliance: Air Purifier
+Room: 10000037 Appliance: Air Purifier
+Room: 10000027 Appliance: Air Purifier
+Room: 10000026 Appliance: Air Purifier
+Room: 10000024 Appliance: Air Purifier
+Room: 10000023 Appliance: Air Purifier
+Room: 10000018 Appliance: Air Purifier
+Room: 10000014 Appliance: Air Purifier
+Room: 10000012 Appliance: Air Purifier
+Room: 10000008 Appliance: Air Purifier
+Room: 10000004 Appliance: Air Purifier
+Room: 10000004 Appliance: Air Purifier
+Room: 10000002 Appliance: Air Purifier
+Room: 10000043 Appliance: Laptop
+Room: 10000038 Appliance: Laptop
+Room: 10000076 Appliance: Range - Large Surface Unit
+Room: 10000076 Appliance: Television Plasma 42' - 50'
+Room: 10000076 Appliance: VCR
+Room: 10000076 Appliance: Computer Printer (Printing)
+Room: 10000076 Appliance: Television - 55 inch
+Room: 10000076 Appliance: Fan (Window)
+Room: 10000076 Appliance: Lighting - Halogen
+Room: 10000076 Appliance: Ceiling Fan w/o light
+Room: 10000076 Appliance: Exercise Equipment - Treadmill 3 H.P.
+Room: 10000076 Appliance: Television/DVD/VCR Combination
+Room: 10000076 Appliance: Exercise Equipment - Treadmill 2 H.P.
+Room: 10000076 Appliance: VCR
+Room: 10000076 Appliance: Telephone - Cordless
+Room: 10000076 Appliance: Answering Machine
+Room: 10000076 Appliance: DVD
+Room: 10000076 Appliance: Fax Machine
+Room: 10000076 Appliance: Exercise Equipment - Treadmill 3 H.P.
+Room: 10000076 Appliance: Dishwasher (Without Dry Cycle)
+Room: 10000076 Appliance: Air Conditioner - 7000 BTU
+Room: 10000076 Appliance: Clothes Washer
+Room: 10000066 Appliance: Answering Machine
+Room: 10000066 Appliance: Television - 32 inch
+Room: 10000066 Appliance: Clock - Electric
+Room: 10000066 Appliance: Lighting - 100 Watt
+Room: 10000066 Appliance: Answering Machine
+Room: 10000066 Appliance: Lighting - 3 rooms (8 60W)
+Room: 10000066 Appliance: Fax Machine
+Room: 10000066 Appliance: DVD
+Room: 10000066 Appliance: Compactor (Trash)
+Room: 10000066 Appliance: Lighting - Fluorescent 2 bulb
+Room: 10000066 Appliance: Answering Machine
+Room: 10000066 Appliance: Television - 25 inch
+Room: 10000066 Appliance: Fish Tank (10 Gallon)
+Room: 10000066 Appliance: Microwave Oven
+Room: 10000066 Appliance: Lighting - 60 Watt
+Room: 10000066 Appliance: Air Purifier
+Room: 10000058 Appliance: Video Game
+Room: 10000058 Appliance: Fan (Window)
+Room: 10000058 Appliance: Range - Small Surface Unit
+Room: 10000058 Appliance: Toaster Oven
+Room: 10000058 Appliance: Lighting - 40 Watt
+Room: 10000058 Appliance: Oven
+Room: 10000058 Appliance: Clock - Electric
+Room: 10000058 Appliance: Electric Frying Pan
+Room: 10000058 Appliance: Lighting - 3 rooms (8 60W)
+Room: 10000058 Appliance: Television - 27 inch
+Room: 10000058 Appliance: Toaster Oven
+Room: 10000058 Appliance: Lighting - 60 Watt
+Room: 10000058 Appliance: DVD
+Room: 10000058 Appliance: Air Purifier
+Room: 10000058 Appliance: Clothes Dryer - Electric
+Room: 10000002 Appliance: Lighting - Fluorescent 2 bulb
+Room: 10000002 Appliance: Oven
+Room: 10000002 Appliance: Television/DVD/VCR Combination
+Room: 10000002 Appliance: Lighting - 75 Watt
+Room: 10000002 Appliance: Television - 43 inch
+Room: 10000002 Appliance: Lighting - 75 Watt
+Room: 10000002 Appliance: Exercise Equipment - Treadmill 2 H.P.
+Room: 10000002 Appliance: Television Plasma 42' - 50'
+Room: 10000002 Appliance: Television - 60 inch
+Room: 10000002 Appliance: Lighting - 5 rooms (10 60W)
+Room: 10000002 Appliance: Bug Killer
+Room: 10000002 Appliance: Answering Machine
+Room: 10000002 Appliance: Clock - Electric
+Room: 10000002 Appliance: Lighting - 100 Watt
+Room: 10000002 Appliance: Air Purifier
+Room: 10000002 Appliance: Computer with Monitor
+Room: 10000002 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000002 Appliance: Air Conditioner - 10000 BTU
+Room: 10000002 Appliance: Air Conditioner - 10000 BTU
+Room: 10000071 Appliance: Television Plasma 42' - 50'
+Room: 10000071 Appliance: Toaster Oven
+Room: 10000071 Appliance: Range - Large Surface Unit
+Room: 10000071 Appliance: Lighting - 60 Watt
+Room: 10000071 Appliance: Compactor (Trash)
+Room: 10000071 Appliance: Compactor (Trash)
+Room: 10000071 Appliance: Television - 36 inch
+Room: 10000071 Appliance: Toaster Oven
+Room: 10000071 Appliance: Computer Printer (Printing)
+Room: 10000071 Appliance: Fish Tank (10 Gallon)
+Room: 10000071 Appliance: Dishwasher (Without Dry Cycle)
+Room: 10000071 Appliance: Dishwasher (Without Dry Cycle)
+Room: 10000071 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000071 Appliance: Fan (Attic)
+Room: 10000071 Appliance: Clothes Dryer - Electric
+Room: 10000032 Appliance: Lighting - 60 Watt
+Room: 10000032 Appliance: Lighting - 3 rooms (8 60W)
+Room: 10000032 Appliance: Lighting - 40 Watt
+Room: 10000032 Appliance: Television - 55 inch
+Room: 10000032 Appliance: Lawn Equipment - Weed Eater
+Room: 10000032 Appliance: Electric Frying Pan
+Room: 10000032 Appliance: Lighting - 10 rooms (15 60W)
+Room: 10000032 Appliance: Ceiling Fan with 3 - 60 Watt Bulbs
+Room: 10000032 Appliance: Lighting - Fluorescent 2 bulb
+Room: 10000032 Appliance: Oven
+Room: 10000032 Appliance: Television - 13 inch
+Room: 10000032 Appliance: Lawn Equipment - Hedge Trimmer
+Room: 10000032 Appliance: Vacuum - Regular
+Room: 10000032 Appliance: Television - 25 inch
+Room: 10000032 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000054 Appliance: Compactor (Trash)
+Room: 10000054 Appliance: Answering Machine
+Room: 10000054 Appliance: Ceiling Fan w/o light
+Room: 10000054 Appliance: Lighting - Comp Fluorescent - 18 Watt
+Room: 10000054 Appliance: Clock - Electric
+Room: 10000054 Appliance: Lighting - Halogen
+Room: 10000054 Appliance: Fan (Window)
+Room: 10000054 Appliance: Lighting - 75 Watt
+Room: 10000054 Appliance: Slow Cooker
+Room: 10000054 Appliance: Lighting - 3 rooms (8 60W)
+Room: 10000054 Appliance: Air Purifier
+Room: 10000054 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000054 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000054 Appliance: Air Conditioner - 7000 BTU
+Room: 10000054 Appliance: Clothes Washer
+Room: 10000054 Appliance: Clothes Dryer - Electric
+Room: 10000081 Appliance: Range - Small Surface Unit
+Room: 10000081 Appliance: Exercise Equipment - Treadmill 3 H.P.
+Room: 10000081 Appliance: Television/DVD/VCR Combination
+Room: 10000081 Appliance: Lighting - 60 Watt
+Room: 10000081 Appliance: Vacuum - Regular
+Room: 10000081 Appliance: Exercise Equipment - Treadmill 2 H.P.
+Room: 10000081 Appliance: Television Plasma 42' - 50'
+Room: 10000081 Appliance: Television - 13 inch
+Room: 10000081 Appliance: Lighting - Halogen
+Room: 10000081 Appliance: Television - 43 inch
+Room: 10000081 Appliance: Ceiling Fan with 3 - 60 Watt Bulbs
+Room: 10000081 Appliance: Television - 13 inch
+Room: 10000081 Appliance: Exercise Equipment - Treadmill 2 H.P.
+Room: 10000081 Appliance: Television 42' - 50' Projection
+Room: 10000081 Appliance: Air Purifier
+Room: 10000081 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000081 Appliance: Computer with Monitor
+Room: 10000081 Appliance: Fan (Attic)
+Room: 10000081 Appliance: Fan (Attic)
+Room: 10000081 Appliance: Hair Dryer (Hand Held)
+Room: 10000017 Appliance: Lawn Mower
+Room: 10000017 Appliance: Exercise Equipment - Treadmill 3 H.P.
+Room: 10000017 Appliance: Vacuum - Regular
+Room: 10000017 Appliance: Oven
+Room: 10000017 Appliance: Lighting - 100 Watt
+Room: 10000017 Appliance: Television Plasma 42' - 50'
+Room: 10000017 Appliance: Range - Large Surface Unit
+Room: 10000017 Appliance: Lighting - 40 Watt
+Room: 10000017 Appliance: Television - 43 inch
+Room: 10000017 Appliance: Lighting - 7 rooms (12 60W)
+Room: 10000017 Appliance: Lawn Mower
+Room: 10000017 Appliance: Computer with Monitor
+Room: 10000017 Appliance: Air Conditioner - 5000 BTU
+Room: 10000017 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000017 Appliance: Air Conditioner - 10000 BTU
+Room: 10000017 Appliance: Clothes Dryer - Electric
+Room: 10000040 Appliance: Telephone - Cordless
+Room: 10000040 Appliance: Lighting - 40 Watt
+Room: 10000040 Appliance: Television - 27 inch
+Room: 10000040 Appliance: Bug Killer
+Room: 10000040 Appliance: Lighting - 40 Watt
+Room: 10000040 Appliance: Lighting - Chandelier 5 - 40 Watt Bulbs
+Room: 10000040 Appliance: Television - 60 inch
+Room: 10000040 Appliance: Television/DVD/VCR Combination
+Room: 10000040 Appliance: Lighting - Fluorescent 2 bulb
+Room: 10000040 Appliance: Bug Killer
+Room: 10000040 Appliance: Toaster Oven
+Room: 10000040 Appliance: Laptop
+Room: 10000040 Appliance: Air Purifier
+Room: 10000040 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000040 Appliance: Dishwasher (With Dry Cycle)
+Room: 10000040 Appliance: Hair Dryer (Hand Held)
+Room: 10000040 Appliance: Clothes Dryer - Electric
+Room: 10000068 Appliance: Television - 25 inch
+Room: 10000068 Appliance: Lighting - Fluorescent 2 bulb
+Room: 10000068 Appliance: Oven
+Room: 10000068 Appliance: Television/DVD/VCR Combination
+Room: 10000068 Appliance: Video Game
+Room: 10000068 Appliance: Lighting - Halogen
+Room: 10000068 Appliance: Video Game
+Room: 10000068 Appliance: Oven
+Room: 10000068 Appliance: Ceiling Fan with 3 - 60 Watt Bulbs
+Room: 10000068 Appliance: Lighting - 3 rooms (8 60W)
+Room: 10000068 Appliance: Television - 13 inch
+Room: 10000068 Appliance: Lighting - 3 rooms (8 60W)
+Room: 10000068 Appliance: Oven
+Room: 10000068 Appliance: Toaster
+Room: 10000068 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000061 Appliance: Iron
+Room: 10000061 Appliance: Fish Tank (10 Gallon)
+Room: 10000061 Appliance: Television - 27 inch
+Room: 10000061 Appliance: DVD
+Room: 10000061 Appliance: Fan
+Room: 10000061 Appliance: Fish Tank (50 Gallon)
+Room: 10000061 Appliance: Answering Machine
+Room: 10000061 Appliance: Television/DVD/VCR Combination
+Room: 10000061 Appliance: Toaster Oven
+Room: 10000061 Appliance: Coffee Maker
+Room: 10000061 Appliance: Lighting - Chandelier 5 - 40 Watt Bulbs
+Room: 10000061 Appliance: Lighting - 60 Watt
+Room: 10000061 Appliance: Lawn Mower
+Room: 10000061 Appliance: Lighting - 7 rooms (12 60W)
+Room: 10000061 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000061 Appliance: Clothes Washer
+Room: 10000069 Appliance: Lighting - 75 Watt
+Room: 10000069 Appliance: Fan (Window)
+Room: 10000069 Appliance: Fan (Window)
+Room: 10000069 Appliance: Iron
+Room: 10000069 Appliance: Bug Killer
+Room: 10000069 Appliance: Fan
+Room: 10000069 Appliance: Computer Printer (Printing)
+Room: 10000069 Appliance: Video Game
+Room: 10000069 Appliance: Vacuum - Regular
+Room: 10000069 Appliance: Toaster
+Room: 10000069 Appliance: Lighting - 10 rooms (15 60W)
+Room: 10000069 Appliance: Lighting - Comp Fluorescent - 23 Watt
+Room: 10000069 Appliance: Exercise Equipment - Treadmill 2 H.P.
+Room: 10000069 Appliance: Television - 60 inch
+Room: 10000069 Appliance: Toaster
+Room: 10000069 Appliance: Television - 19 inch
+Room: 10000069 Appliance: Dishwasher (Without Dry Cycle)
+Room: 10000069 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000069 Appliance: Air Conditioner - 5000 BTU
+Room: 10000056 Appliance: Range - Large Surface Unit
+Room: 10000056 Appliance: Oven
+Room: 10000056 Appliance: Lighting - Comp Fluorescent - 18 Watt
+Room: 10000056 Appliance: Fish Tank (10 Gallon)
+Room: 10000056 Appliance: Exercise Equipment - Treadmill 2 H.P.
+Room: 10000056 Appliance: Iron
+Room: 10000056 Appliance: Range - Small Surface Unit
+Room: 10000056 Appliance: Ceiling Fan w/o light
+Room: 10000056 Appliance: Slow Cooker
+Room: 10000056 Appliance: Fax Machine
+Room: 10000056 Appliance: Bug Killer
+Room: 10000056 Appliance: Television - 55 inch
+Room: 10000056 Appliance: Fax Machine
+Room: 10000056 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000056 Appliance: Dishwasher (With Dry Cycle)
+Room: 10000007 Appliance: Television - 32 inch
+Room: 10000007 Appliance: Telephone - Cordless
+Room: 10000007 Appliance: Lighting - Halogen
+Room: 10000007 Appliance: Lighting - 40 Watt
+Room: 10000007 Appliance: Television - 55 inch
+Room: 10000007 Appliance: Television - 25 inch
+Room: 10000007 Appliance: Toaster Oven
+Room: 10000007 Appliance: Lighting - Fluorescent 2 bulb
+Room: 10000007 Appliance: Ceiling Fan with 3 - 60 Watt Bulbs
+Room: 10000007 Appliance: Lighting - 10 rooms (15 60W)
+Room: 10000007 Appliance: Lighting - 60 Watt
+Room: 10000007 Appliance: Lighting - Fluorescent 2 bulb
+Room: 10000007 Appliance: Electric Frying Pan
+Room: 10000007 Appliance: Toaster
+Room: 10000007 Appliance: VCR
+Room: 10000007 Appliance: Air Conditioner - 7000 BTU
+Room: 10000007 Appliance: Air Conditioner - 7000 BTU
+Room: 10000039 Appliance: Stereo
+Room: 10000039 Appliance: Lighting - 60 Watt
+Room: 10000039 Appliance: Television 42' - 50' Projection
+Room: 10000039 Appliance: Fan (Window)
+Room: 10000039 Appliance: Coffee Maker
+Room: 10000039 Appliance: Fish Tank (10 Gallon)
+Room: 10000039 Appliance: Television - 25 inch
+Room: 10000039 Appliance: Fish Tank (10 Gallon)
+Room: 10000039 Appliance: Range - Large Surface Unit
+Room: 10000039 Appliance: Ceiling Fan with 3 - 60 Watt Bulbs
+Room: 10000039 Appliance: Exercise Equipment - Treadmill 3 H.P.
+Room: 10000039 Appliance: Dishwasher (Without Dry Cycle)
+Room: 10000039 Appliance: Computer with Monitor
+Room: 10000039 Appliance: Dishwasher (With Dry Cycle)
+Room: 10000039 Appliance: Clothes Washer
+Room: 10000093 Appliance: Exercise Equipment - Treadmill 3 H.P.
+Room: 10000093 Appliance: Fax Machine
+Room: 10000093 Appliance: Electric Frying Pan
+Room: 10000093 Appliance: Lighting - 40 Watt
+Room: 10000093 Appliance: Lawn Equipment - Hedge Trimmer
+Room: 10000093 Appliance: Lighting - 60 Watt
+Room: 10000093 Appliance: Lighting - 75 Watt
+Room: 10000093 Appliance: Clock - Electric
+Room: 10000093 Appliance: Television - 32 inch
+Room: 10000093 Appliance: Lighting - Halogen
+Room: 10000093 Appliance: Air Purifier
+Room: 10000093 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000093 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000093 Appliance: Fan (Attic)
+Room: 10000093 Appliance: Air Conditioner - 7000 BTU
+Room: 10000093 Appliance: Clothes Dryer - Electric
+Room: 10000020 Appliance: Microwave Oven
+Room: 10000020 Appliance: Range - Large Surface Unit
+Room: 10000020 Appliance: Oven
+Room: 10000020 Appliance: Toaster
+Room: 10000020 Appliance: Video Game
+Room: 10000020 Appliance: Exercise Equipment - Treadmill 3 H.P.
+Room: 10000020 Appliance: Television/DVD/VCR Combination
+Room: 10000020 Appliance: Television - 36 inch
+Room: 10000020 Appliance: Computer Printer (Printing)
+Room: 10000020 Appliance: Lighting - Fluorescent 2 bulb
+Room: 10000020 Appliance: Stereo
+Room: 10000020 Appliance: Electric Frying Pan
+Room: 10000020 Appliance: DVD
+Room: 10000020 Appliance: Lighting - 60 Watt
+Room: 10000020 Appliance: Fan (Attic)
+Room: 10000020 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000088 Appliance: Compactor (Trash)
+Room: 10000088 Appliance: Ceiling Fan with 3 - 60 Watt Bulbs
+Room: 10000088 Appliance: Electric Frying Pan
+Room: 10000088 Appliance: Lighting - 40 Watt
+Room: 10000088 Appliance: Coffee Maker
+Room: 10000088 Appliance: Lighting - Comp Fluorescent - 18 Watt
+Room: 10000088 Appliance: Answering Machine
+Room: 10000088 Appliance: Lawn Equipment - Hedge Trimmer
+Room: 10000088 Appliance: Television - 32 inch
+Room: 10000088 Appliance: Lighting - 75 Watt
+Room: 10000088 Appliance: Lighting - 60 Watt
+Room: 10000088 Appliance: Computer Printer (Printing)
+Room: 10000088 Appliance: Lawn Equipment - Hedge Trimmer
+Room: 10000088 Appliance: Air Purifier
+Room: 10000088 Appliance: Dishwasher (Without Dry Cycle)
+Room: 10000088 Appliance: Air Conditioner - 5000 BTU
+Room: 10000088 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000088 Appliance: Hair Dryer (Hand Held)
+Room: 10000008 Appliance: Range - Small Surface Unit
+Room: 10000008 Appliance: Lawn Equipment - Weed Eater
+Room: 10000008 Appliance: Television/DVD/VCR Combination
+Room: 10000008 Appliance: Lawn Mower
+Room: 10000008 Appliance: Fan (Window)
+Room: 10000008 Appliance: Answering Machine
+Room: 10000008 Appliance: Television - 55 inch
+Room: 10000008 Appliance: Exercise Equipment - Treadmill 3 H.P.
+Room: 10000008 Appliance: Lighting - Chandelier 5 - 40 Watt Bulbs
+Room: 10000008 Appliance: Computer Printer (Printing)
+Room: 10000008 Appliance: Slow Cooker
+Room: 10000008 Appliance: Fan (Window)
+Room: 10000008 Appliance: Microwave Oven
+Room: 10000008 Appliance: Lighting - 100 Watt
+Room: 10000008 Appliance: Coffee Maker
+Room: 10000008 Appliance: Range - Small Surface Unit
+Room: 10000008 Appliance: Lawn Equipment - Hedge Trimmer
+Room: 10000008 Appliance: Air Purifier
+Room: 10000008 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000008 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000048 Appliance: Lighting - 75 Watt
+Room: 10000048 Appliance: Television - 19 inch
+Room: 10000048 Appliance: Lighting - 3 rooms (8 60W)
+Room: 10000048 Appliance: Lighting - 60 Watt
+Room: 10000048 Appliance: Television/DVD/VCR Combination
+Room: 10000048 Appliance: Television - 25 inch
+Room: 10000048 Appliance: Fan (Window)
+Room: 10000048 Appliance: Television Plasma 42' - 50'
+Room: 10000048 Appliance: Toaster
+Room: 10000048 Appliance: Iron
+Room: 10000048 Appliance: Lighting - Halogen
+Room: 10000048 Appliance: Lawn Equipment - Hedge Trimmer
+Room: 10000048 Appliance: Air Purifier
+Room: 10000048 Appliance: Computer with Monitor
+Room: 10000048 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000048 Appliance: Clothes Washer
+Room: 10000048 Appliance: Clothes Dryer - Electric
+Room: 10000047 Appliance: Stereo
+Room: 10000047 Appliance: Lighting - Comp Fluorescent - 18 Watt
+Room: 10000047 Appliance: Lighting - 40 Watt
+Room: 10000047 Appliance: Television - 25 inch
+Room: 10000047 Appliance: Lighting - Comp Fluorescent - 23 Watt
+Room: 10000047 Appliance: DVD
+Room: 10000047 Appliance: Television - 13 inch
+Room: 10000047 Appliance: Television - 32 inch
+Room: 10000047 Appliance: VCR
+Room: 10000047 Appliance: Television Plasma 42' - 50'
+Room: 10000047 Appliance: Slow Cooker
+Room: 10000047 Appliance: Telephone - Cordless
+Room: 10000047 Appliance: Dishwasher (Without Dry Cycle)
+Room: 10000047 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000047 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000047 Appliance: Clothes Dryer - Electric
+Room: 10000062 Appliance: Electric Frying Pan
+Room: 10000062 Appliance: Telephone - Cordless
+Room: 10000062 Appliance: Vacuum - Regular
+Room: 10000062 Appliance: Lighting - Comp Fluorescent - 23 Watt
+Room: 10000062 Appliance: Toaster
+Room: 10000062 Appliance: Toaster
+Room: 10000062 Appliance: Fan (Window)
+Room: 10000062 Appliance: Television - 55 inch
+Room: 10000062 Appliance: Television - 27 inch
+Room: 10000062 Appliance: Lighting - 3 rooms (8 60W)
+Room: 10000062 Appliance: Oven
+Room: 10000062 Appliance: Iron
+Room: 10000062 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000062 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000062 Appliance: Clothes Washer
+Room: 10000022 Appliance: Television - 60 inch
+Room: 10000022 Appliance: Microwave Oven
+Room: 10000022 Appliance: Lighting - 3 rooms (8 60W)
+Room: 10000022 Appliance: Ceiling Fan w/o light
+Room: 10000022 Appliance: Television - 25 inch
+Room: 10000022 Appliance: Lighting - 40 Watt
+Room: 10000022 Appliance: VCR
+Room: 10000022 Appliance: Television - 55 inch
+Room: 10000022 Appliance: Toaster Oven
+Room: 10000022 Appliance: Iron
+Room: 10000022 Appliance: Fax Machine
+Room: 10000022 Appliance: Fish Tank (10 Gallon)
+Room: 10000022 Appliance: Compactor (Trash)
+Room: 10000022 Appliance: Television - 13 inch
+Room: 10000022 Appliance: Electric Frying Pan
+Room: 10000022 Appliance: Clock - Electric
+Room: 10000022 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000022 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000022 Appliance: Air Conditioner - 7000 BTU
+Room: 10000077 Appliance: Fax Machine
+Room: 10000077 Appliance: Lawn Mower
+Room: 10000077 Appliance: Clock - Electric
+Room: 10000077 Appliance: Lighting - 60 Watt
+Room: 10000077 Appliance: Stereo
+Room: 10000077 Appliance: Television 42' - 50' Projection
+Room: 10000077 Appliance: Television - 27 inch
+Room: 10000077 Appliance: Ceiling Fan with 3 - 60 Watt Bulbs
+Room: 10000077 Appliance: Fax Machine
+Room: 10000077 Appliance: Ceiling Fan with 3 - 60 Watt Bulbs
+Room: 10000077 Appliance: Television - 43 inch
+Room: 10000077 Appliance: Television - 43 inch
+Room: 10000077 Appliance: Dishwasher (Without Dry Cycle)
+Room: 10000077 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000077 Appliance: Fan (Attic)
+Room: 10000077 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000074 Appliance: Computer Printer (Printing)
+Room: 10000074 Appliance: Lawn Equipment - Weed Eater
+Room: 10000074 Appliance: Television - 27 inch
+Room: 10000074 Appliance: Compactor (Trash)
+Room: 10000074 Appliance: Lighting - Chandelier 5 - 40 Watt Bulbs
+Room: 10000074 Appliance: Vacuum - Regular
+Room: 10000074 Appliance: Lighting - Comp Fluorescent - 18 Watt
+Room: 10000074 Appliance: Toaster Oven
+Room: 10000074 Appliance: Exercise Equipment - Treadmill 3 H.P.
+Room: 10000074 Appliance: Laptop
+Room: 10000074 Appliance: Laptop
+Room: 10000074 Appliance: Fan (Attic)
+Room: 10000074 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000074 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000074 Appliance: Air Conditioner - 10000 BTU
+Room: 10000074 Appliance: Clothes Washer
+Room: 10000074 Appliance: Hair Dryer (Hand Held)
+
+Time Step 5, Appliances Affected: 
+
+Room: 10000079 Appliance: Clothes Dryer - Electric
+Room: 10000099 Appliance: Air Conditioner - 10000 BTU
+Room: 10000089 Appliance: Air Conditioner - 10000 BTU
+Room: 10000085 Appliance: Air Conditioner - 10000 BTU
+Room: 10000067 Appliance: Dishwasher (With Dry Cycle)
+Room: 10000057 Appliance: Air Conditioner - 10000 BTU
+Room: 10000036 Appliance: Dishwasher (With Dry Cycle)
+Room: 10000019 Appliance: Air Conditioner - 10000 BTU
+Room: 10000016 Appliance: Air Conditioner - 10000 BTU
+Room: 10000005 Appliance: Dishwasher (With Dry Cycle)
+Room: 10000002 Appliance: Air Conditioner - 10000 BTU
+Room: 10000098 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000092 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000083 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000079 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000065 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000055 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000053 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000053 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000051 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000033 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000030 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000029 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000028 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000015 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000015 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000012 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000008 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000005 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000004 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000001 Appliance: Refrigerator - Freezer 25 cu. ft. - Side by Side
+Room: 10000100 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000099 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000099 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000096 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000090 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000085 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000084 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000079 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000074 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000070 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000070 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000064 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000064 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000063 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000053 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000051 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000050 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000048 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000047 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000046 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000044 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000038 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000037 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000035 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000030 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000026 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000025 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000014 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000013 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000011 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000009 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000004 Appliance: Refrigerator - Freezer 21 cu. ft.- Side by Side
+Room: 10000095 Appliance: Air Conditioner - 7000 BTU
+Room: 10000054 Appliance: Air Conditioner - 7000 BTU
+Room: 10000030 Appliance: Air Conditioner - 7000 BTU
+Room: 10000028 Appliance: Air Conditioner - 7000 BTU
+Room: 10000016 Appliance: Air Conditioner - 7000 BTU
+Room: 10000015 Appliance: Air Conditioner - 7000 BTU
+Room: 10000014 Appliance: Air Conditioner - 7000 BTU
+Room: 10000007 Appliance: Air Conditioner - 7000 BTU
+Room: 10000004 Appliance: Air Conditioner - 7000 BTU
+Room: 10000003 Appliance: Air Conditioner - 7000 BTU
+Room: 10000099 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000080 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000073 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000063 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000055 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000052 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000051 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000050 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000042 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000040 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000036 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000029 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000029 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000023 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000020 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000019 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000015 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000012 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000010 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000003 Appliance: Refrigerator - Freezer 24 cu. ft. - Frostfree
+Room: 10000098 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000095 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000091 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000087 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000086 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000086 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000083 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000082 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000082 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000080 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000077 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000074 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000073 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000067 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000065 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000062 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000060 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000059 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000057 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000057 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000056 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000055 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000053 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000046 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000045 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000044 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000044 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000043 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000043 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000042 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000042 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000041 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000034 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000033 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000032 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000028 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000027 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000024 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000024 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000023 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000014 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000012 Appliance: Freezer - Upright/Chest 17 cu.ft. - Frostfree
+Room: 10000011 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000006 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000003 Appliance: Freezer - Upright/Chest 17 cu. ft
+Room: 10000098 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000094 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000092 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000092 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000090 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000089 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000089 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000087 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000086 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000082 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000078 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000073 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000064 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000063 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000050 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000045 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000029 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000022 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000021 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000016 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000014 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000010 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000009 Appliance: Refrigerator - 21 cu.ft. - Frostfree
+Room: 10000096 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000095 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000090 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000088 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000083 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000072 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000067 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000059 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000059 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000055 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000053 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000051 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000045 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000042 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000042 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000038 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000031 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000017 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000015 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000013 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000006 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000005 Appliance: Refrigerator - 19 cu. ft. - Frostfree
+Room: 10000100 Appliance: Air Conditioner - 5000 BTU
+Room: 10000091 Appliance: Air Conditioner - 5000 BTU
+Room: 10000071 Appliance: Fan (Attic)
+Room: 10000045 Appliance: Air Conditioner - 5000 BTU
+Room: 10000044 Appliance: Air Conditioner - 5000 BTU
+Room: 10000011 Appliance: Air Conditioner - 5000 BTU
+Room: 10000099 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000085 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000080 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000077 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000071 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000069 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000065 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000064 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000057 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000053 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000047 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000043 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000035 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000031 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000028 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000019 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000016 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000013 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000012 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000004 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000001 Appliance: Refrigerator - 17 cu. ft - Frostfree
+Room: 10000096 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000096 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000093 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000093 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000080 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000064 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000060 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000055 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000055 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000037 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000036 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000035 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000035 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000029 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000016 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000013 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000010 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000006 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000003 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000002 Appliance: Refrigerator - 14 cu. ft. - Frostfree
+Room: 10000097 Appliance: Computer with Monitor
+Room: 10000089 Appliance: Computer with Monitor
+Room: 10000081 Appliance: Computer with Monitor
+Room: 10000063 Appliance: Computer with Monitor
+Room: 10000048 Appliance: Computer with Monitor
+Room: 10000043 Appliance: Computer with Monitor
+Room: 10000016 Appliance: Computer with Monitor
+Room: 10000002 Appliance: Computer with Monitor
+Room: 10000099 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000094 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000089 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000087 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000083 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000081 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000075 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000075 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000068 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000064 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000061 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000054 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000050 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000028 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000027 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000025 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000022 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000019 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000016 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000011 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000010 Appliance: Refrigerator - 14 cu. ft.
+Room: 10000096 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000092 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000090 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000083 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000083 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000083 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000073 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000062 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000059 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000054 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000051 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000046 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000043 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000043 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000041 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000037 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000036 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000010 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000008 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000001 Appliance: Refrigerator - 1.7 cu. ft.
+Room: 10000098 Appliance: Air Purifier
+Room: 10000093 Appliance: Air Purifier
+Room: 10000091 Appliance: Air Purifier
+Room: 10000089 Appliance: Air Purifier
+Room: 10000088 Appliance: Air Purifier
+Room: 10000086 Appliance: Air Purifier
+Room: 10000081 Appliance: Air Purifier
+Room: 10000079 Appliance: Air Purifier
+Room: 10000075 Appliance: Air Purifier
+Room: 10000072 Appliance: Air Purifier
+Room: 10000066 Appliance: Air Purifier
+Room: 10000060 Appliance: Air Purifier
+Room: 10000058 Appliance: Air Purifier
+Room: 10000054 Appliance: Air Purifier
+Room: 10000048 Appliance: Air Purifier
+Room: 10000040 Appliance: Air Purifier
+Room: 10000038 Appliance: Air Purifier
+Room: 10000037 Appliance: Air Purifier

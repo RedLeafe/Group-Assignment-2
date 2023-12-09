@@ -1,4 +1,6 @@
 import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.util.*;
 
 
@@ -7,6 +9,9 @@ public class GeneralClient {
         ArrayList<Appliance> regAppList = new ArrayList<>();
         ArrayList<SmartAppliance> smartAppList = new ArrayList<>();
         ArrayList<Integer> locationsAffected = new ArrayList<>();
+        ArrayList<Appliance> appliancesAffected = new ArrayList<>();
+        ArrayList<String> totalAppliancesAffected = new ArrayList<>();
+        int roomNumArray[] = new int[100];
         // seperate appliances into smart and regular
         for(int i = 0; i < totalAppliances.size(); i++){
             if( totalAppliances.get(i) instanceof SmartAppliance ){
@@ -38,10 +43,11 @@ public class GeneralClient {
             int roomNum;
 
             locationsAffected.clear();
+            appliancesAffected.clear();
             System.out.println( "Time step " + (t+1) + ":");
             int numSmartAppliancesLow = 0;
             int numLocationsBrowedOut = 0;
-            int totalNumAffected = 0;
+
 
             randomizeOn(regAppList, smartAppList);
 
@@ -64,6 +70,7 @@ public class GeneralClient {
             int count = smartAppList.size()-1; //start from highest appliance power
             while( totalPower > allowedWattage && count >= 0){
                 if( smartAppList.get(count).isOn() ){
+                    appliancesAffected.add(smartAppList.get(count));
                     smartAppList.get(count).turnLow();
                     totalPower -= (smartAppList.get(count).getPowerOn() - smartAppList.get(count).getOutput());
                     numSmartAppliancesLow++;
@@ -99,41 +106,67 @@ public class GeneralClient {
                 }
 
                 count = 0;
-                while (count < rooms.size())
+                while (count < rooms.size() && totalPower > allowedWattage)
                 {
-                    if (totalPower > allowedWattage){
-                        totalPower -= rooms.get(count).totalWattage();
-                        numLocationsBrowedOut++;
-                        rooms.get(count).brownOut();
-                        roomNum = rooms.get(count).getRoomNum();
-                        count++;
-                        
-                        for (int i = 0; i < locationsAffected.size(); i++)
-                        {
-                            if (locationsAffected.get(i) == roomNum)
-                                isInList = true;
-                        }
-                        
-                        if( !isInList ){
-                            locationsAffected.add(roomNum);
-                        }
-                        isInList = false;
+                    totalPower -= rooms.get(count).totalWattage();
+                    numLocationsBrowedOut++;
+                    rooms.get(count).brownOut(appliancesAffected);
+                    roomNum = rooms.get(count).getRoomNum();
+                    count++;
+                    
+                    for (int i = 0; i < locationsAffected.size(); i++)
+                    {
+                        if (locationsAffected.get(i) == roomNum)
+                            isInList = true;
                     }
-                    else{
-                        totalNumAffected += rooms.get(count).isAffected();
-                        count++;
+                    
+                    if( !isInList ){
+                        locationsAffected.add(roomNum);
                     }
+                    isInList = false;
                 }
             }
-            totalNumAffected += numLocationsBrowedOut;
             turnAllOff(regAppList, smartAppList);
             System.out.println("Number of appliances turned to low: " + numSmartAppliancesLow);
             System.out.println("Number of locations browned out: " + numLocationsBrowedOut);
-            System.out.println("Number of locations affected: " + (totalNumAffected));
+            System.out.println("Number of locations affected: " + (locationsAffected.size()));
+
+            for (int i = 0; i < appliancesAffected.size(); i++){
+                    totalAppliancesAffected.add("Room: " + appliancesAffected.get(i).getLocationID() + " Appliance: " + appliancesAffected.get(i).getDescription());
+
+                    int totalRoomNum = (appliancesAffected.get(i).getLocationID() - 10000000);
+                    roomNumArray[totalRoomNum - 1] += 1;
+            }
+            int highestNumber = 0;
+            for (int i = 0; i < roomNumArray.length; i++){
+                if (roomNumArray[i] > highestNumber){
+                    highestNumber = roomNumArray[i];
+                }
+            }
+
+            System.out.println("Max affected location: " + (10000000 + roomNumArray[highestNumber]));
             System.out.println();
+            
             t++;
+
+            if (t < timeStep)
+                totalAppliancesAffected.add("\nTime Step " + (t + 1) + ", Appliances Affected: \n");
             
         }
+
+        try {
+            FileWriter myWriter = new FileWriter("C:\\Users\\mille\\OneDrive\\Documents\\GitHub\\Group-Assignment-2\\output.txt");
+            myWriter.write("Time Step 1, Appliances Affected: \n\n");
+            for (int i = 0; i < totalAppliancesAffected.size(); i++){
+                myWriter.write(totalAppliancesAffected.get(i) + "\n");
+            }
+            myWriter.close();
+            
+        } catch (IOException e) {
+            System.out.println("An error occurred.");
+            e.printStackTrace();
+        }
+
     }
 
 
@@ -324,5 +357,3 @@ public class GeneralClient {
     }
     
 }
-
-

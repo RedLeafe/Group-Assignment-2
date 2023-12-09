@@ -71,7 +71,7 @@ public class Appliance {
     }
 
     public void setStatus( boolean s ){
-        isOn = t;
+        isOn = s;
     }
 
 

@@ -28,10 +28,22 @@ public class Room {
         return appliances;
     }
 
-    public void brownOut(){
+    public void brownOut(ArrayList<Appliance> list){
+        boolean inList = false;
         for( int i = 0; i < appliances.size(); i++){
             appliances.get(i).turnOff();
+
+            for (int j = (i + 1); j < list.size(); j++){
+                if (list.get(i) == list.get(j)){
+                    inList = true;
+                }
+            }
+            if (!inList){
+                list.add(appliances.get(i));
+            } 
         }
+
+        
     }
 
 
