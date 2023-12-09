@@ -223,7 +223,7 @@ public class GeneralClient {
                         totalAppliances.add( new Appliance(locationID, description, wattage, probOn) );
                     }
                     else{
-                        totalAppliances.add( new SmartAppliance(locationID, description, low, probOn, low));
+                        totalAppliances.add( new SmartAppliance(locationID, description, wattage, probOn, low));
                     }
                 
 
@@ -255,7 +255,7 @@ public class GeneralClient {
                             totalAppliances.add( new Appliance(locationID, description, wattage, probOn) );
                         }
                         else{
-                            totalAppliances.add( new SmartAppliance(locationID, description, low, probOn, low));
+                            totalAppliances.add( new SmartAppliance(locationID, description, wattage, probOn, low));
                         }
                     }
                     scan.close();
