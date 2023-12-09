@@ -57,22 +57,14 @@ public class Room {
     }
 
     public int isAffected(){
-        int applianceCount = 0;
         for( int i = 0; i < appliances.size(); i++){
             if(appliances.get(i) instanceof SmartAppliance){
-                if (!((SmartAppliance)(appliances.get(i))).isLow()){
-                    applianceCount += 1;
+                if (((SmartAppliance)(appliances.get(i))).isLow()){
+                    return 1;
                 }
             }
-            if (!(appliances.get(i).isOn())){
-                applianceCount += 1;
-            }
         }
-        if (applianceCount > 0){
-            return 1;
-        }else{
-            return 0;
-        }
+        return 0;
     }
 
 }

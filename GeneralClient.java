@@ -99,28 +99,33 @@ public class GeneralClient {
                 }
 
                 count = 0;
-                while (totalPower > allowedWattage && count < rooms.size())
+                while (count < rooms.size())
                 {
-                    totalPower -= rooms.get(count).totalWattage();
-                    numLocationsBrowedOut++;
-                    totalNumAffected += rooms.get(count).isAffected();
-                    rooms.get(count).brownOut();
-                    roomNum = rooms.get(count).getRoomNum();
-                    count++;
-                    
-                    for (int i = 0; i < locationsAffected.size(); i++)
-                    {
-                        if (locationsAffected.get(i) == roomNum)
-                            isInList = true;
+                    if (totalPower > allowedWattage){
+                        totalPower -= rooms.get(count).totalWattage();
+                        numLocationsBrowedOut++;
+                        rooms.get(count).brownOut();
+                        roomNum = rooms.get(count).getRoomNum();
+                        count++;
+                        
+                        for (int i = 0; i < locationsAffected.size(); i++)
+                        {
+                            if (locationsAffected.get(i) == roomNum)
+                                isInList = true;
+                        }
+                        
+                        if( !isInList ){
+                            locationsAffected.add(roomNum);
+                        }
+                        isInList = false;
                     }
-                     
-                    if( !isInList ){
-                        locationsAffected.add(roomNum);
+                    else{
+                        totalNumAffected += rooms.get(count).isAffected();
+                        count++;
                     }
-                    isInList = false;
-                    
                 }
             }
+            totalNumAffected += numLocationsBrowedOut;
             turnAllOff(regAppList, smartAppList);
             System.out.println("Number of appliances turned to low: " + numSmartAppliancesLow);
             System.out.println("Number of locations browned out: " + numLocationsBrowedOut);
