@@ -12,6 +12,8 @@ public class SmartAppliance extends Appliance {
         super(app.getLocationID(), app.getDescription(), app.getPowerOn(), app.getProbOn());
         this.lowPercent = app.getLow();
         this.isLow = app.isLow;
+        super.setStatus(app.isOn() );
+        isLow = app.isLow();
     }
 
     // getter to copy stuff
