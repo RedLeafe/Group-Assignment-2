@@ -51,4 +51,12 @@ public class SmartAppliance extends Appliance {
     public boolean isLow(){
         return isLow;
     }
+
+    public boolean equals( SmartAppliance app ){
+        if( super.equals(app) && app.getLow() == lowPercent){
+            return true;
+        }
+        return false;
+
+    }
 }
