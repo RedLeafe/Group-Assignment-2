@@ -1,6 +1,4 @@
-import java.io.File;
-import java.io.FileWriter;
-import java.io.IOException;
+import java.io.*;
 import java.util.*;
 
 
@@ -23,18 +21,6 @@ public class GeneralClient {
         }
 
         // order smartAppList
-        for (int i = smartAppList.size() - 1; i > 0; i--)
-        {
-            for (int j = 0; j < i; j++)
-            {
-                if (smartAppList.get(j).getOutput() > smartAppList.get(j + 1).getOutput())
-                {
-                    SmartAppliance temp = smartAppList.get(j);
-                    smartAppList.set(j, smartAppList.get(j+1));
-                    smartAppList.set(j+1,temp);
-                }
-            }
-        }
 
         int t = 0;
         while( t < timeStep )
@@ -58,11 +44,11 @@ public class GeneralClient {
             {
                 for (int j = 0; j < i; j++)
                 {
-                    if (smartAppList.get(j).getPowerOn() > smartAppList.get(j + 1).getPowerOn())
+                    if (smartAppList.get(j).getOutput() > smartAppList.get(j + 1).getOutput())
                     {
-                        SmartAppliance temp = new SmartAppliance(smartAppList.get(j));
-                        smartAppList.set(j, new SmartAppliance(smartAppList.get(j+1)));
-                        smartAppList.set(j+1,new SmartAppliance(temp));
+                        SmartAppliance temp = smartAppList.get(j);
+                        smartAppList.set(j, smartAppList.get(j+1));
+                        smartAppList.set(j+1,temp);
                     }
                 }
             }
@@ -70,8 +56,8 @@ public class GeneralClient {
             int count = smartAppList.size()-1; //start from highest appliance power
             while( totalPower > allowedWattage && count >= 0){
                 if( smartAppList.get(count).isOn() ){
-                    appliancesAffected.add(smartAppList.get(count));
                     smartAppList.get(count).turnLow();
+                    appliancesAffected.add(smartAppList.get(count));
                     totalPower -= (smartAppList.get(count).getPowerOn() - smartAppList.get(count).getOutput());
                     numSmartAppliancesLow++;
                     roomNum = smartAppList.get(count).getLocationID();
@@ -133,38 +119,49 @@ public class GeneralClient {
 
             for (int i = 0; i < appliancesAffected.size(); i++){
                     totalAppliancesAffected.add("Room: " + appliancesAffected.get(i).getLocationID() + " Appliance: " + appliancesAffected.get(i).getDescription());
-
-                    int totalRoomNum = (appliancesAffected.get(i).getLocationID() - 10000000);
-                    roomNumArray[totalRoomNum - 1] += 1;
+                    roomNumArray[appliancesAffected.get(i).getLocationID() - 10000001] += 1;
             }
-            int highestNumber = 0;
+    
+            int highestNumAppAffected = 0;
+            int indexOfHighest = 0;
+
             for (int i = 0; i < roomNumArray.length; i++){
-                if (roomNumArray[i] > highestNumber){
-                    highestNumber = roomNumArray[i];
+                if (roomNumArray[i] > highestNumAppAffected){
+                    highestNumAppAffected = roomNumArray[i];
+                    indexOfHighest = i;
                 }
             }
 
-            System.out.println("Max affected location: " + (10000000 + roomNumArray[highestNumber]));
-            System.out.println();
-            
-            t++;
+            if( appliancesAffected.size() == 0 ){
+                System.out.println("No locations were affected");
 
-            if (t < timeStep)
-                totalAppliancesAffected.add("\nTime Step " + (t + 1) + ", Appliances Affected: \n");
-            
-        }
-
-        try {
-            FileWriter myWriter = new FileWriter("C:\\Users\\mille\\OneDrive\\Documents\\GitHub\\Group-Assignment-2\\output.txt");
-            myWriter.write("Time Step 1, Appliances Affected: \n\n");
-            for (int i = 0; i < totalAppliancesAffected.size(); i++){
-                myWriter.write(totalAppliancesAffected.get(i) + "\n");
             }
-            myWriter.close();
+            else{
+                System.out.println("ID of max affected location: " + (10000000 + indexOfHighest + 1));
+                System.out.println("   Location " + (10000000 + indexOfHighest + 1) + " has " + highestNumAppAffected + " appliances affected");
+            }
+            System.out.println();
+
+            try {
+                FileWriter myWriter = new FileWriter("output.txt", true);
+                PrintWriter file = new PrintWriter( myWriter );
+                file.println("TIME STEP " + (t+1) + ": APPLIANCES AFFECTED");
+                for (int i = 0; i < totalAppliancesAffected.size(); i++){
+                    file.println(totalAppliancesAffected.get(i));
+                }
+                file.println();
+                myWriter.close();
+                file.close();
+                
+            } catch (IOException e) {
+                System.out.println("An error occurred.");
+                e.printStackTrace();
+            }
+            for( int i = 0; i < roomNumArray.length; i++){
+                roomNumArray[i] = 0;
+            }
+            t++;
             
-        } catch (IOException e) {
-            System.out.println("An error occurred.");
-            e.printStackTrace();
         }
 
     }
@@ -173,12 +170,10 @@ public class GeneralClient {
     public static double calcTotalWatt( ArrayList<Appliance> regApp, ArrayList<SmartAppliance> smartApp ){
         double total = 0.0;
         for( int i = 0; i < regApp.size(); i++){
-            if( regApp.get(i).isOn())
-                total += regApp.get(i).getOutput();
+            total += regApp.get(i).getOutput();
         }
         for( int i = 0; i < smartApp.size(); i++){
-            if( smartApp.get(i).isOn())
-                total += smartApp.get(i).getOutput();
+            total += smartApp.get(i).getOutput();
         }
         return total;
     }
@@ -203,9 +198,9 @@ public class GeneralClient {
 
     public static ArrayList<Room> putIntoRooms( ArrayList<Appliance> regApp, ArrayList<SmartAppliance> smartApp ){
         ArrayList<Room> rooms = new ArrayList<>();
-        for( int i = 0; i < 100; i++ ){
+        for( int i = 1; i <= 100; i++ ){
             rooms.add( new Room() );
-            rooms.get(i).setRoomNum(10000000 + i);
+            rooms.get(i-1).setRoomNum(10000000 + i);
         }
         
         for( int i = 0; i < regApp.size(); i++){
