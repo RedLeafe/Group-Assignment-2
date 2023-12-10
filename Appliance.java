@@ -74,9 +74,11 @@ public class Appliance {
         isOn = s;
     }
 
-
-    
-
-    
+    public boolean equals( Appliance app){
+        if( app.getLocationID() == locationID && app.getDescription().equals(description) && app.getPowerOn() == powerOn && app.getProbOn() == probOn){
+            return true;
+        }
+        return false;
+    }
     
 }
