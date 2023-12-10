@@ -8,14 +8,6 @@ public class SmartAppliance extends Appliance {
         this.lowPercent = lowPercent;
     }
 
-    public SmartAppliance( SmartAppliance app ){
-        super(app.getLocationID(), app.getDescription(), app.getPowerOn(), app.getProbOn());
-        this.lowPercent = app.getLow();
-        this.isLow = app.isLow;
-        super.setStatus(app.isOn() );
-        isLow = app.isLow();
-    }
-
     // getter to copy stuff
     public double getLow() {
         return this.lowPercent;
@@ -52,11 +44,4 @@ public class SmartAppliance extends Appliance {
         return isLow;
     }
 
-    public boolean equals( SmartAppliance app ){
-        if( super.equals(app) && app.getLow() == lowPercent){
-            return true;
-        }
-        return false;
-
-    }
 }

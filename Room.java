@@ -16,10 +16,10 @@ public class Room {
 
     public void addAppliance( Appliance app ){
         if( app instanceof SmartAppliance){
-            appliances.add( new SmartAppliance((SmartAppliance)app) );
+            appliances.add( (SmartAppliance)app );
         }
         else{ 
-            appliances.add( new Appliance(app));
+            appliances.add( app);
         }
 
     }
@@ -28,14 +28,13 @@ public class Room {
         return appliances;
     }
 
-
     public void brownOut(ArrayList<Appliance> list){
         boolean isInList = false;
         for( int i = 0; i < appliances.size(); i++){
             if( appliances.get(i).isOn() ){
                 for( int j = 0; j < list.size(); j++){
                     if( appliances.get(i) instanceof SmartAppliance && list.get(j) instanceof SmartAppliance){
-                        if( ((SmartAppliance)appliances.get(i)).equals(((SmartAppliance)list.get(j)))){
+                        if( (SmartAppliance)appliances.get(i)==(SmartAppliance)list.get(j)){
                             isInList = true;
                         }
                     }
@@ -54,6 +53,7 @@ public class Room {
 
         
     }
+
 
     public int getNumAppliances(){
         return appliances.size();

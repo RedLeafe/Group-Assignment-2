@@ -14,16 +14,6 @@ public class Appliance {
         this.isOn = false;
     }
 
-    // contructor with appliance attribute to copy the attribute
-    // ( used to create a local reference)
-    public Appliance ( Appliance app){
-        this.locationID = app.getLocationID();
-        this.description = app.getDescription();
-        this.powerOn = app.getPowerOn();
-        this.probOn = app.getProbOn();
-        this.isOn = app.isOn;
-    }
-
     // getters so we can copy information
     public int getLocationID() {
         return this.locationID;
@@ -74,11 +64,5 @@ public class Appliance {
         isOn = s;
     }
 
-    public boolean equals( Appliance app){
-        if( app.getLocationID() == locationID && app.getDescription().equals(description) && app.getPowerOn() == powerOn && app.getProbOn() == probOn){
-            return true;
-        }
-        return false;
-    }
-    
+
 }
