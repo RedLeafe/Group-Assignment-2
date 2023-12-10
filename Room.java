@@ -28,31 +28,32 @@ public class Room {
         return appliances;
     }
 
+
     public void brownOut(ArrayList<Appliance> list){
         boolean isInList = false;
         for( int i = 0; i < appliances.size(); i++){
-
-            for( int j = 0; j < list.size(); j++){
-                if( appliances.get(i) instanceof SmartAppliance && list.get(j) instanceof SmartAppliance){
-                    if( ((SmartAppliance)appliances.get(i)).equals(((SmartAppliance)list.get(j)))){
+            if( appliances.get(i).isOn() ){
+                for( int j = 0; j < list.size(); j++){
+                    if( appliances.get(i) instanceof SmartAppliance && list.get(j) instanceof SmartAppliance){
+                        if( ((SmartAppliance)appliances.get(i)).equals(((SmartAppliance)list.get(j)))){
+                            isInList = true;
+                        }
+                    }
+                    else{
+                        if( appliances.get(i).equals(list.get(j)))
                         isInList = true;
                     }
                 }
-                else{
-                    if( appliances.get(i).equals(list.get(j)))
-                    isInList = true;
-                }
+                if (!isInList){
+                    list.add(appliances.get(i));
+                } 
+                appliances.get(i).turnOff();
             }
-            if (!isInList){
-                list.add(appliances.get(i));
-            } 
-            appliances.get(i).turnOff();
             isInList = false;
         }
 
         
     }
-
 
     public int getNumAppliances(){
         return appliances.size();
