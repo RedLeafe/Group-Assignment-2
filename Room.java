@@ -29,18 +29,25 @@ public class Room {
     }
 
     public void brownOut(ArrayList<Appliance> list){
-        boolean inList = false;
+        boolean isInList = false;
         for( int i = 0; i < appliances.size(); i++){
-            appliances.get(i).turnOff();
 
-            for (int j = (i + 1); j < list.size(); j++){
-                if (list.get(i) == list.get(j)){
-                    inList = true;
+            for( int j = 0; j < list.size(); j++){
+                if( appliances.get(i) instanceof SmartAppliance && list.get(j) instanceof SmartAppliance){
+                    if( ((SmartAppliance)appliances.get(i)).equals(((SmartAppliance)list.get(j)))){
+                        isInList = true;
+                    }
+                }
+                else{
+                    if( appliances.get(i).equals(list.get(j)))
+                    isInList = true;
                 }
             }
-            if (!inList){
+            if (!isInList){
                 list.add(appliances.get(i));
             } 
+            appliances.get(i).turnOff();
+            isInList = false;
         }
 
         
