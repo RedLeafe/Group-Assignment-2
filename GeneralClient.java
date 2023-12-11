@@ -142,10 +142,20 @@ public class GeneralClient {
             }
             System.out.println();
 
-            try {
-                FileWriter myWriter = new FileWriter("output.txt", true);
+            for( int i = 0; i < roomNumArray.length; i++){
+                roomNumArray[i] = 0;
+            }
+            t++;
+
+            if (t < timeStep)
+                totalAppliancesAffected.add("\nTime Step " + (t + 1) + ", Appliances Affected\n");
+            
+        }
+
+        try {
+                FileWriter myWriter = new FileWriter("output.txt", false);
                 PrintWriter file = new PrintWriter( myWriter );
-                file.println("TIME STEP " + (t+1) + ": APPLIANCES AFFECTED");
+                file.println("Time Step 1, Appliances Affected: \n");
                 for (int i = 0; i < totalAppliancesAffected.size(); i++){
                     file.println(totalAppliancesAffected.get(i));
                 }
@@ -157,12 +167,6 @@ public class GeneralClient {
                 System.out.println("An error occurred.");
                 e.printStackTrace();
             }
-            for( int i = 0; i < roomNumArray.length; i++){
-                roomNumArray[i] = 0;
-            }
-            t++;
-            
-        }
 
     }
 
