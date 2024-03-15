@@ -1,4 +1,4 @@
-# Group-Assignment-3: Power Usage Simulation System 
+# Power Usage Simulation System 
 Group Members: Sayumi Amarasinghe, Ashley Mapes, Sarah Huynh, Dorsey Yan, Cesar Gomez, Ryan Miller 
 
 Project Description: This project simulates the power usage of a building; the building has different rooms and two possible appliances, smart or regular. 
